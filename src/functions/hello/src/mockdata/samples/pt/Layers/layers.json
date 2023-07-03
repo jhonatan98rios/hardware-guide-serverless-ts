@@ -1,0 +1,4900 @@
+{
+    "samples": [
+        {
+            "text": "Notebook para Office",
+            "device": "notebook",
+            "spec": "low",
+            "purpose": "pro"
+        },
+        {
+            "text": "Notebook para Excel",
+            "device": "notebook",
+            "spec": "low",
+            "purpose": "pro"
+        },
+        {
+            "text": "Notebook para Word",
+            "device": "notebook",
+            "spec": "low",
+            "purpose": "pro"
+        },
+        {
+            "text": "Notebook para Power Point",
+            "device": "notebook",
+            "spec": "low",
+            "purpose": "pro"
+        },
+        {
+            "text": "Notebook barato",
+            "device": "notebook",
+            "spec": "low",
+            "purpose": "person"
+        },
+        {
+            "text": "Notebook barato para estudar",
+            "device": "notebook",
+            "spec": "low",
+            "purpose": "person"
+        },
+        {
+            "text": "Notebook para uso cotidiano",
+            "device": "notebook",
+            "spec": "low",
+            "purpose": "person"
+        },
+        {
+            "text": "Notebook para navegação",
+            "device": "notebook",
+            "spec": "low",
+            "purpose": "person"
+        },
+        {
+            "text": "Notebook para assistir vídeos",
+            "device": "notebook",
+            "spec": "low",
+            "purpose": "person"
+        },
+        {
+            "text": "Notebook para escritorio",
+            "device": "notebook",
+            "spec": "low",
+            "purpose": "pro"
+        },
+        {
+            "text": "Notebook para usar no escritorio",
+            "device": "notebook",
+            "spec": "low",
+            "purpose": "pro"
+        },
+        {
+            "text": "Notebook para faculdade",
+            "device": "notebook",
+            "spec": "low",
+            "purpose": "person"
+        },
+        {
+            "text": "Quero um laptop novo para a faculdade",
+            "device": "notebook",
+            "spec": "low",
+            "purpose": "person"
+        },
+        {
+            "text": "preciso um Notebook para faculdade",
+            "device": "notebook",
+            "spec": "low",
+            "purpose": "person"
+        },
+        {
+            "text": "Note para facul",
+            "device": "notebook",
+            "spec": "low",
+            "purpose": "person"
+        },
+        {
+            "text": "Precios um Laptop novo para faculdade",
+            "device": "notebook",
+            "spec": "low",
+            "purpose": "person"
+        },
+        {
+            "text": "Notebook para uso administrativo",
+            "device": "notebook",
+            "spec": "low",
+            "purpose": "pro"
+        },
+        {
+            "text": "Notebook para administração de empresas",
+            "device": "notebook",
+            "spec": "low",
+            "purpose": "pro"
+        },
+        {
+            "text": "Laptop para uso administrativo",
+            "device": "notebook",
+            "spec": "low",
+            "purpose": "pro"
+        },
+        {
+            "text": "Laptop para uso em administração",
+            "device": "notebook",
+            "spec": "low",
+            "purpose": "pro"
+        },
+        {
+            "text": "Notebook para rodar Lubuntu",
+            "device": "notebook",
+            "spec": "low",
+            "purpose": "person"
+        },
+        {
+            "text": "Notebook até 2000",
+            "device": "notebook",
+            "spec": "low",
+            "purpose": "person"
+        },
+        {
+            "text": "Notebook para estudar",
+            "device": "notebook",
+            "spec": "low",
+            "purpose": "person"
+        },
+        {
+            "text": "Notebook para uso no dia a dia",
+            "device": "notebook",
+            "spec": "low",
+            "purpose": "person"
+        },
+        {
+            "text": "Notebook para trabalhos administrativos",
+            "device": "notebook",
+            "spec": "low",
+            "purpose": "pro"
+        },
+        {
+            "text": "Notebook para uso simples, de baixo custo",
+            "device": "notebook",
+            "spec": "low",
+            "purpose": "person"
+        },
+        {
+            "text": "Notebook para jogos leves e trabalho",
+            "device": "notebook",
+            "spec": "low",
+            "purpose": "pro"
+        },
+        {
+            "text": "Notebook para jogar Minecraft",
+            "device": "notebook",
+            "spec": "low",
+            "purpose": "person"
+        },
+        {
+            "text": "Quero um notebook para jogar games como Minecraft",
+            "device": "notebook",
+            "spec": "low",
+            "purpose": "person"
+        },
+        {
+            "text": "Notebook para editar imagem",
+            "device": "notebook",
+            "spec": "low",
+            "purpose": "pro"
+        },
+        {
+            "text": "Notebook para trabalhar com Design",
+            "device": "notebook",
+            "spec": "low",
+            "purpose": "pro"
+        },
+        {
+            "text": "Notebook para editar vetores",
+            "device": "notebook",
+            "spec": "low",
+            "purpose": "pro"
+        },
+        {
+            "text": "Notebook para photoshop",
+            "device": "notebook",
+            "spec": "low",
+            "purpose": "pro"
+        },
+        {
+            "text": "Notebook para figma",
+            "device": "notebook",
+            "spec": "low",
+            "purpose": "pro"
+        },
+        {
+            "text": "Notebook para illustrator",
+            "device": "notebook",
+            "spec": "low",
+            "purpose": "pro"
+        },
+        {
+            "text": "Notebook para core drawn",
+            "device": "notebook",
+            "spec": "low",
+            "purpose": "pro"
+        },
+        {
+            "text": "Notebook para design de audio",
+            "device": "notebook",
+            "spec": "low",
+            "purpose": "pro"
+        },
+        {
+            "text": "Notebook para engenheiro de audio",
+            "device": "notebook",
+            "spec": "low",
+            "purpose": "pro"
+        },
+        {
+            "text": "Notebook para processamento de audio",
+            "device": "notebook",
+            "spec": "low",
+            "purpose": "pro"
+        },
+        {
+            "text": "Notebook para mixar musicas",
+            "device": "notebook",
+            "spec": "low",
+            "purpose": "pro"
+        },
+        {
+            "text": "Notebook para engenharia de audio",
+            "device": "notebook",
+            "spec": "low",
+            "purpose": "pro"
+        },
+        {
+            "text": "Notebook para designer de audio",
+            "device": "notebook",
+            "spec": "low",
+            "purpose": "pro"
+        },
+        {
+            "text": "Notebook para trabalhar com design de audio",
+            "device": "notebook",
+            "spec": "low",
+            "purpose": "pro"
+        },
+        {
+            "text": "Quero um note para trabalhos administrativos",
+            "device": "notebook",
+            "spec": "low",
+            "purpose": "pro"
+        },
+        {
+            "text": "Quero um note para jogos leves e trabalho",
+            "device": "notebook",
+            "spec": "mid",
+            "purpose": "pro"
+        },
+        {
+            "text": "Quero um note para editar imagem",
+            "device": "notebook",
+            "spec": "mid",
+            "purpose": "pro"
+        },
+        {
+            "text": "Quero um note para trabalhar com Design",
+            "device": "notebook",
+            "spec": "mid",
+            "purpose": "pro"
+        },
+        {
+            "text": "Quero um note para editar vetores",
+            "device": "notebook",
+            "spec": "mid",
+            "purpose": "pro"
+        },
+        {
+            "text": "Quero um note para photoshop",
+            "device": "notebook",
+            "spec": "mid",
+            "purpose": "pro"
+        },
+        {
+            "text": "Quero um note para figma",
+            "device": "notebook",
+            "spec": "mid",
+            "purpose": "pro"
+        },
+        {
+            "text": "Quero um note para illustrator",
+            "device": "notebook",
+            "spec": "mid",
+            "purpose": "pro"
+        },
+        {
+            "text": "Quero um note para corel drawn",
+            "device": "notebook",
+            "spec": "mid",
+            "purpose": "pro"
+        },
+        {
+            "text": "Quero um note para design de audio",
+            "device": "notebook",
+            "spec": "mid",
+            "purpose": "pro"
+        },
+        {
+            "text": "Quero um note para engenheiro de audio",
+            "device": "notebook",
+            "spec": "mid",
+            "purpose": "pro"
+        },
+        {
+            "text": "Quero um note para processamento de audio",
+            "device": "notebook",
+            "spec": "mid",
+            "purpose": "pro"
+        },
+        {
+            "text": "Quero um note para mixar musicas",
+            "device": "notebook",
+            "spec": "mid",
+            "purpose": "pro"
+        },
+        {
+            "text": "Quero um note para engenharia de audio",
+            "device": "notebook",
+            "spec": "mid",
+            "purpose": "pro"
+        },
+        {
+            "text": "Quero um note para designer de audio",
+            "device": "notebook",
+            "spec": "mid",
+            "purpose": "pro"
+        },
+        {
+            "text": "Quero um note para trabalhar com design de audio",
+            "device": "notebook",
+            "spec": "mid",
+            "purpose": "pro"
+        },
+        {
+            "text": "Notebook para jogar barato",
+            "device": "notebook",
+            "spec": "mid",
+            "purpose": "person"
+        },
+        {
+            "text": "Notebook para rodar jogos barato",
+            "device": "notebook",
+            "spec": "mid",
+            "purpose": "person"
+        },
+        {
+            "text": "Notebook barato para rodar jogos",
+            "device": "notebook",
+            "spec": "mid",
+            "purpose": "person"
+        },
+        {
+            "text": "Notebook barato para jogos",
+            "device": "notebook",
+            "spec": "mid",
+            "purpose": "person"
+        },
+        {
+            "text": "Notebook barato para estudos e games",
+            "device": "notebook",
+            "spec": "mid",
+            "purpose": "person"
+        },
+        {
+            "text": "Notebook barato para jogar",
+            "device": "notebook",
+            "spec": "mid",
+            "purpose": "person"
+        },
+        {
+            "text": "Notebook para jogar jogos leves",
+            "device": "notebook",
+            "spec": "mid",
+            "purpose": "person"
+        },
+        {
+            "text": "Notebook para jogar de vez em quando",
+            "device": "notebook",
+            "spec": "mid",
+            "purpose": "person"
+        },
+        {
+            "text": "Notebook para games leves",
+            "device": "notebook",
+            "spec": "mid",
+            "purpose": "person"
+        },
+        {
+            "text": "Notebook para uso simples",
+            "device": "notebook",
+            "spec": "low",
+            "purpose": "person"
+        },
+        {
+            "text": "Notebook para rodar Linux",
+            "device": "notebook",
+            "spec": "mid",
+            "purpose": "person"
+        },
+        {
+            "text": "Notebook para rodar Ubuntu",
+            "device": "notebook",
+            "spec": "mid",
+            "purpose": "person"
+        },
+        {
+            "text": "Notebook para rodar Linux Mint",
+            "device": "notebook",
+            "spec": "mid",
+            "purpose": "person"
+        },
+        {
+            "text": "Notebook até 3000",
+            "device": "notebook",
+            "spec": "mid",
+            "purpose": "person"
+        },
+        {
+            "text": "Preciso de um note para jogar barato",
+            "device": "notebook",
+            "spec": "mid",
+            "purpose": "person"
+        },
+        {
+            "text": "Preciso de um note para rodar jogos barato",
+            "device": "notebook",
+            "spec": "mid",
+            "purpose": "person"
+        },
+        {
+            "text": "Preciso de um note barato para rodar jogos",
+            "device": "notebook",
+            "spec": "mid",
+            "purpose": "person"
+        },
+        {
+            "text": "Preciso de um note barato para jogos",
+            "device": "notebook",
+            "spec": "mid",
+            "purpose": "person"
+        },
+        {
+            "text": "Preciso de um note barato para estudos e games",
+            "device": "notebook",
+            "spec": "mid",
+            "purpose": "person"
+        },
+        {
+            "text": "Preciso de um note barato para jogar",
+            "device": "notebook",
+            "spec": "mid",
+            "purpose": "person"
+        },
+        {
+            "text": "Preciso de um note barato para edição",
+            "device": "notebook",
+            "spec": "mid",
+            "purpose": "person"
+        },
+        {
+            "text": "Preciso de um note para jogar jogos leves",
+            "device": "notebook",
+            "spec": "mid",
+            "purpose": "person"
+        },
+        {
+            "text": "Preciso de um note para jogar de vez em quando",
+            "device": "notebook",
+            "spec": "mid",
+            "purpose": "person"
+        },
+        {
+            "text": "Preciso de um note para games leves",
+            "device": "notebook",
+            "spec": "mid",
+            "purpose": "person"
+        },
+        {
+            "text": "Preciso de um note para uso simples",
+            "device": "notebook",
+            "spec": "low",
+            "purpose": "person"
+        },
+        {
+            "text": "Preciso de um note para trabalho",
+            "device": "notebook",
+            "spec": "low",
+            "purpose": "pro"
+        },
+        {
+            "text": "Preciso de um note para rodar Linux",
+            "device": "notebook",
+            "spec": "mid",
+            "purpose": "person"
+        },
+        {
+            "text": "Preciso de um note para rodar Ubuntu",
+            "device": "notebook",
+            "spec": "mid",
+            "purpose": "person"
+        },
+        {
+            "text": "Preciso de um note para rodar Linux Mint",
+            "device": "notebook",
+            "spec": "mid",
+            "purpose": "person"
+        },
+        {
+            "text": "Preciso de um note até 3000",
+            "device": "notebook",
+            "spec": "mid",
+            "purpose": "person"
+        },
+        {
+            "text": "Notebook para rodar jogos leves e para trabalhos com artes digitais em programas como Photoshop, Corel, Figma e ilustrator",
+            "device": "notebook",
+            "spec": "mid",
+            "purpose": "pro"
+        },
+        {
+            "text": "Procuro um Notebook para rodar apenas jogos leves como League of Legends ou MTG Arena e principalmente para trabalhos com artes digitais em programas como Corel, Figma, ilustrator ou Photoshop.",
+            "device": "notebook",
+            "spec": "mid",
+            "purpose": "pro"
+        },
+        {
+            "text": "Procuro um Notebook para rodar apenas jogos leves como League of Legends",
+            "device": "notebook",
+            "spec": "mid",
+            "purpose": "person"
+        },
+        {
+            "text": "Procuro um Notebook para rodar League of Legends",
+            "device": "notebook",
+            "spec": "mid",
+            "purpose": "person"
+        },
+        {
+            "text": "Notebook barato para trabalhar",
+            "device": "notebook",
+            "spec": "low",
+            "purpose": "pro"
+        },
+        {
+            "text": "Quero um Notebook para jogos leves como League of Legends e para trabalhos com artes digitais",
+            "device": "notebook",
+            "spec": "mid",
+            "purpose": "pro"
+        },
+        {
+            "text": "procuro um Notebook para jogos leves como League of Legends ou MTG Arena e para trabalhos com artes digitais em programas como Corel, Figma, ilustrator ou Photoshop.",
+            "device": "notebook",
+            "spec": "mid",
+            "purpose": "pro"
+        },
+        {
+            "text": "Notebook para produtividade",
+            "device": "notebook",
+            "spec": "low",
+            "purpose": "pro"
+        },
+        {
+            "text": "Notebook para jogar e trabalhar",
+            "device": "notebook",
+            "spec": "low",
+            "purpose": "pro"
+        },
+        {
+            "text": "notebook para jogar league of legends",
+            "device": "notebook",
+            "spec": "mid",
+            "purpose": "person"
+        },
+        {
+            "text": "Notebook para jogar PUBG Lite",
+            "device": "notebook",
+            "spec": "mid",
+            "purpose": "person"
+        },
+        {
+            "text": "Notebook para jogar League of Legends",
+            "device": "notebook",
+            "spec": "mid",
+            "purpose": "person"
+        },
+        {
+            "text": "Notebook para jogar CS GO",
+            "device": "notebook",
+            "spec": "mid",
+            "purpose": "person"
+        },
+        {
+            "text": "Quero um Notebook que rode CS GO",
+            "device": "notebook",
+            "spec": "mid",
+            "purpose": "person"
+        },
+        {
+            "text": "Quero um Notebook para jogar Counter Strike GO",
+            "device": "notebook",
+            "spec": "mid",
+            "purpose": "person"
+        },
+        {
+            "text": "Note para jogar CS Source",
+            "device": "notebook",
+            "spec": "mid",
+            "purpose": "person"
+        },
+        {
+            "text": "Note que rode jogar CS Source",
+            "device": "notebook",
+            "spec": "mid",
+            "purpose": "person"
+        },
+        {
+            "text": "Notebook para trabalhar com audiovisual",
+            "device": "notebook",
+            "spec": "high",
+            "purpose": "pro"
+        },
+        {
+            "text": "Quero um note para estudar",
+            "device": "notebook",
+            "spec": "low",
+            "purpose": "person"
+        },
+        {
+            "text": "Quero um note para uso no dia a dia",
+            "device": "notebook",
+            "spec": "low",
+            "purpose": "person"
+        },
+        {
+            "text": "Quero um note para uso simples, de baixo custo",
+            "device": "notebook",
+            "spec": "low",
+            "purpose": "person"
+        },
+        {
+            "text": "Quero um note para jogar PUBG Lite",
+            "device": "notebook",
+            "spec": "mid",
+            "purpose": "person"
+        },
+        {
+            "text": "Quero um note para jogar League of Legends",
+            "device": "notebook",
+            "spec": "mid",
+            "purpose": "person"
+        },
+        {
+            "text": "Quero um note para jogar CS GO",
+            "device": "notebook",
+            "spec": "mid",
+            "purpose": "person"
+        },
+        {
+            "text": "Quero um note para jogar Minecraft",
+            "device": "notebook",
+            "spec": "low",
+            "purpose": "person"
+        },
+        {
+            "text": "Quero um note para trabalhar com audiovisual",
+            "device": "notebook",
+            "spec": "high",
+            "purpose": "pro"
+        },
+        {
+            "text": "Quero um note para rodar games pesados",
+            "device": "notebook",
+            "spec": "high",
+            "purpose": "person"
+        },
+        {
+            "text": "Quero um note que rode jogos pesados",
+            "device": "notebook",
+            "spec": "high",
+            "purpose": "person"
+        },
+        {
+            "text": "Note que rode jogos pesados",
+            "device": "notebook",
+            "spec": "high",
+            "purpose": "person"
+        },
+        {
+            "text": "Notebook barato para edição",
+            "device": "notebook",
+            "spec": "mid",
+            "purpose": "pro"
+        },
+        {
+            "text": "Notebook para trabalho",
+            "device": "notebook",
+            "spec": "low",
+            "purpose": "pro"
+        },
+        {
+            "text": "Procuro um Notebook para trabalhos com artes digitais em programas como Corel, Figma, ilustrator ou Photoshop.",
+            "device": "notebook",
+            "spec": "mid",
+            "purpose": "pro"
+        },
+        {
+            "text": "Procuro um Notebook para rodar Figma, ilustrator ou Photoshop.",
+            "device": "notebook",
+            "spec": "mid",
+            "purpose": "pro"
+        },
+        {
+            "text": "Notebook para programar",
+            "device": "notebook",
+            "spec": "mid",
+            "purpose": "pro"
+        },
+        {
+            "text": "Quero um Notebook para programar",
+            "device": "notebook",
+            "spec": "mid",
+            "purpose": "pro"
+        },
+        {
+            "text": "Notebook para jogos leves",
+            "device": "notebook",
+            "spec": "mid",
+            "purpose": "person"
+        },
+        {
+            "text": "Notebook para rodar Android Studio",
+            "device": "notebook",
+            "spec": "mid",
+            "purpose": "pro"
+        },
+        {
+            "text": "Preciso de um Notebook barato para trabalhar",
+            "device": "notebook",
+            "spec": "low",
+            "purpose": "pro"
+        },
+        {
+            "text": "Notebook barato para games",
+            "device": "notebook",
+            "spec": "mid",
+            "purpose": "person"
+        },
+        {
+            "text": "Notebook para programação",
+            "device": "notebook",
+            "spec": "mid",
+            "purpose": "pro"
+        },
+        {
+            "text": "Notebook para lazer",
+            "device": "notebook",
+            "spec": "low",
+            "purpose": "person"
+        },
+        {
+            "text": "Notebook gamer barato",
+            "device": "notebook",
+            "spec": "mid",
+            "purpose": "person"
+        },
+        {
+            "text": "Notebook uso cotidiano",
+            "device": "notebook",
+            "spec": "low",
+            "purpose": "person"
+        },
+        {
+            "text": "Procuro um Notebook para rodar apenas jogos leves",
+            "device": "notebook",
+            "spec": "mid",
+            "purpose": "person"
+        },
+        {
+            "text": "Procuro um Notebook para jogos leves e principalmente para trabalhos em programas como Corel, Figma, ilustrator ou Photoshop.",
+            "device": "notebook",
+            "spec": "mid",
+            "purpose": "pro"
+        },
+        {
+            "text": "Procuro um Notebook para rodar jogos leves como MTG Arena e para trabalhos com artes digitais em programas como Photoshop, Corel, Figma e ilustrator",
+            "device": "notebook",
+            "spec": "mid",
+            "purpose": "pro"
+        },
+        {
+            "text": "Notebook simples",
+            "device": "notebook",
+            "spec": "low",
+            "purpose": "person"
+        },
+        {
+            "text": "Notebook para uso leve",
+            "device": "notebook",
+            "spec": "low",
+            "purpose": "person"
+        },
+        {
+            "text": "Notebook para design",
+            "device": "notebook",
+            "spec": "mid",
+            "purpose": "pro"
+        },
+        {
+            "text": "Notebook para trabalhar com audio",
+            "device": "notebook",
+            "spec": "mid",
+            "purpose": "pro"
+        },
+        {
+            "text": "Gostaria de um Notebook para jogar games leves",
+            "device": "notebook",
+            "spec": "mid",
+            "purpose": "person"
+        },
+        {
+            "text": "Notebook para trabalho e rodar jogos",
+            "device": "notebook",
+            "spec": "mid",
+            "purpose": "pro"
+        },
+        {
+            "text": "Notebook para trabalhar e rodar jogos",
+            "device": "notebook",
+            "spec": "mid",
+            "purpose": "pro"
+        },
+        {
+            "text": "Notebook para trabalho e jogos",
+            "device": "notebook",
+            "spec": "mid",
+            "purpose": "pro"
+        },
+        {
+            "text": "Notebook para jogos",
+            "device": "notebook",
+            "spec": "mid",
+            "purpose": "person"
+        },
+        {
+            "text": "Notebook Gamer",
+            "device": "notebook",
+            "spec": "high",
+            "purpose": "person"
+        },
+        {
+            "text": "Notebook para rodar jogos",
+            "device": "notebook",
+            "spec": "mid",
+            "purpose": "person"
+        },
+        {
+            "text": "Notebook para rodar jogar",
+            "device": "notebook",
+            "spec": "mid",
+            "purpose": "person"
+        },
+        {
+            "text": "Notebook para trabalhar e jogar",
+            "device": "notebook",
+            "spec": "mid",
+            "purpose": "pro"
+        },
+        {
+            "text": "Notebook para jogar GTA V",
+            "device": "notebook",
+            "spec": "high",
+            "purpose": "person"
+        },
+        {
+            "text": "Notebook para jogar Fortnite",
+            "device": "notebook",
+            "spec": "high",
+            "purpose": "person"
+        },
+        {
+            "text": "Notebook para jogar Apex",
+            "device": "notebook",
+            "spec": "high",
+            "purpose": "person"
+        },
+        {
+            "text": "Notebook para jogar Emuladores",
+            "device": "notebook",
+            "spec": "high",
+            "purpose": "person"
+        },
+        {
+            "text": "Notebook para jogar Battlefield",
+            "device": "notebook",
+            "spec": "high",
+            "purpose": "person"
+        },
+        {
+            "text": "Notebook para jogar Call of dutty",
+            "device": "notebook",
+            "spec": "high",
+            "purpose": "person"
+        },
+        {
+            "text": "Notebook para jogar lançamentos",
+            "device": "notebook",
+            "spec": "high",
+            "purpose": "person"
+        },
+        {
+            "text": "Notebook para processamento de imagens",
+            "device": "notebook",
+            "spec": "mid",
+            "purpose": "pro"
+        },
+        {
+            "text": "Notebook Gamer barato",
+            "device": "notebook",
+            "spec": "mid",
+            "purpose": "person"
+        },
+        {
+            "text": "Notebook Rápido",
+            "device": "notebook",
+            "spec": "mid",
+            "purpose": "person"
+        },
+        {
+            "text": "Notebook para rodar Deepin",
+            "device": "notebook",
+            "spec": "mid",
+            "purpose": "person"
+        },
+        {
+            "text": "Notebook para Hackintosh",
+            "device": "notebook",
+            "spec": "mid",
+            "purpose": "person"
+        },
+        {
+            "text": "Notebook até 4000",
+            "device": "notebook",
+            "spec": "mid",
+            "purpose": "person"
+        },
+        {
+            "text": "Pretendo montar um Notebook para as seguintes funções e programas. Orçamento R$4.000 (se puder parcelar, pode ir até uns 4.500 e 5.000), Edição de videos em 4k (Adobe Premiere Pro), Render animações (After Effects), Color Grading (DaVinci Resolve), Tratamento de fotografia (Lightroom)",
+            "device": "notebook",
+            "spec": "mid",
+            "purpose": "pro"
+        },
+        {
+            "text": "Notebook para jogar",
+            "device": "notebook",
+            "spec": "mid",
+            "purpose": "person"
+        },
+        {
+            "text": "Procuro um Notebook para rodar autocad",
+            "device": "notebook",
+            "spec": "mid",
+            "purpose": "pro"
+        },
+        {
+            "text": "Notebook para rodar 3DSMAX",
+            "device": "notebook",
+            "spec": "high",
+            "purpose": "pro"
+        },
+        {
+            "text": "Notebook para modelagem 3D",
+            "device": "notebook",
+            "spec": "high",
+            "purpose": "pro"
+        },
+        {
+            "text": "Note para aplicações pesadas",
+            "device": "notebook",
+            "spec": "high",
+            "purpose": "pro"
+        },
+        {
+            "text": "Preciso de um notebook para trabalhar com renderização 3D",
+            "device": "notebook",
+            "spec": "high",
+            "purpose": "pro"
+        },
+        {
+            "text": "Notebook para rodar emulador de ps2",
+            "device": "notebook",
+            "spec": "mid",
+            "purpose": "person"
+        },
+        {
+            "text": "Notebook para rodar docker",
+            "device": "notebook",
+            "spec": "mid",
+            "purpose": "pro"
+        },
+        {
+            "text": "Notebook para rodar Resident Evil 3",
+            "device": "notebook",
+            "spec": "mid",
+            "purpose": "person"
+        },
+        {
+            "text": "Notebook para analise de dados",
+            "device": "notebook",
+            "spec": "mid",
+            "purpose": "pro"
+        },
+        {
+            "text": "Notebook para engenharia",
+            "device": "notebook",
+            "spec": "mid",
+            "purpose": "pro"
+        },
+        {
+            "text": "Notebook para games",
+            "device": "notebook",
+            "spec": "mid",
+            "purpose": "person"
+        },
+        {
+            "text": "Notebook para GTA V",
+            "device": "notebook",
+            "spec": "mid",
+            "purpose": "person"
+        },
+        {
+            "text": "Preciso de um Notebook para jogos",
+            "device": "notebook",
+            "spec": "mid",
+            "purpose": "person"
+        },
+        {
+            "text": "Preciso de um notebook para trabalhar e que rode uns games antigos",
+            "device": "desktop",
+            "spec": "low",
+            "purpose": "pro"
+        },
+        {
+            "text": "Notebook gamer",
+            "device": "notebook",
+            "spec": "high",
+            "purpose": "person"
+        },
+        {
+            "text": "Procuro um notebook para jogar em qualidade média ou baixa. Bastante memória RAM",
+            "device": "notebook",
+            "spec": "mid",
+            "purpose": "person"
+        },
+        {
+            "text": "Notebook para fotografia",
+            "device": "notebook",
+            "spec": "mid",
+            "purpose": "pro"
+        },
+        {
+            "text": "Notebook para jogar e gravar gameplay",
+            "device": "notebook",
+            "spec": "high",
+            "purpose": "person"
+        },
+        {
+            "text": "Quero um Notebook para trabalho e games",
+            "device": "notebook",
+            "spec": "mid",
+            "purpose": "pro"
+        },
+        {
+            "text": "Quero um Notebook para trabalho pesado",
+            "device": "notebook",
+            "spec": "high",
+            "purpose": "pro"
+        },
+        {
+            "text": "Notebook para jogar Red Dead Redemption",
+            "device": "notebook",
+            "spec": "high",
+            "purpose": "person"
+        },
+        {
+            "text": "Notebook para jogar PUBG",
+            "device": "notebook",
+            "spec": "high",
+            "purpose": "person"
+        },
+        {
+            "text": "Notebook para editores de vídeo",
+            "device": "notebook",
+            "spec": "high",
+            "purpose": "pro"
+        },
+        {
+            "text": "Preciso de um Notebook para render",
+            "device": "notebook",
+            "spec": "high",
+            "purpose": "pro"
+        },
+        {
+            "text": "Notebook para fazer edição de vídeo",
+            "device": "notebook",
+            "spec": "high",
+            "purpose": "pro"
+        },
+        {
+            "text": "Notebook para editar vídeo",
+            "device": "notebook",
+            "spec": "high",
+            "purpose": "pro"
+        },
+        {
+            "text": "Notebook para adobe",
+            "device": "notebook",
+            "spec": "mid",
+            "purpose": "pro"
+        },
+        {
+            "text": "Notebook para suíte adobe",
+            "device": "notebook",
+            "spec": "mid",
+            "purpose": "pro"
+        },
+        {
+            "text": "Notebook para premiere",
+            "device": "notebook",
+            "spec": "high",
+            "purpose": "pro"
+        },
+        {
+            "text": "Notebook para after effects",
+            "device": "notebook",
+            "spec": "high",
+            "purpose": "pro"
+        },
+        {
+            "text": "Notebook para trabalhar com CAD",
+            "device": "notebook",
+            "spec": "mid",
+            "purpose": "pro"
+        },
+        {
+            "text": "Notebook para trabalhar com cinema",
+            "device": "notebook",
+            "spec": "high",
+            "purpose": "pro"
+        },
+        {
+            "text": "Notebook para processamento de vídeo",
+            "device": "notebook",
+            "spec": "high",
+            "purpose": "pro"
+        },
+        {
+            "text": "Notebook para renderização 3D",
+            "device": "notebook",
+            "spec": "high",
+            "purpose": "pro"
+        },
+        {
+            "text": "Notebook para uso profissional",
+            "device": "notebook",
+            "spec": "low",
+            "purpose": "pro"
+        },
+        {
+            "text": "Notebook para aplicações profissionais",
+            "device": "notebook",
+            "spec": "low",
+            "purpose": "pro"
+        },
+        {
+            "text": "Notebook para jogar em Full HD",
+            "device": "notebook",
+            "spec": "mid",
+            "purpose": "person"
+        },
+        {
+            "text": "Notebook para jogar em 1080p",
+            "device": "notebook",
+            "spec": "mid",
+            "purpose": "person"
+        },
+        {
+            "text": "Notebook para trabalhar e jogar em 1080p",
+            "device": "notebook",
+            "spec": "mid",
+            "purpose": "pro"
+        },
+        {
+            "text": "Notebook até 6000",
+            "device": "notebook",
+            "spec": "high",
+            "purpose": "person"
+        },
+        {
+            "text": "Notebook para modelagem e render 3D",
+            "device": "notebook",
+            "spec": "high",
+            "purpose": "pro"
+        },
+        {
+            "text": "Notebook para editar vídeos e imagens",
+            "device": "notebook",
+            "spec": "high",
+            "purpose": "pro"
+        },
+        {
+            "text": "Notebook para modelagem",
+            "device": "notebook",
+            "spec": "high",
+            "purpose": "pro"
+        },
+        {
+            "text": "Notebook para render",
+            "device": "notebook",
+            "spec": "high",
+            "purpose": "pro"
+        },
+        {
+            "text": "Notebook para rodar Red Dead Redemption",
+            "device": "notebook",
+            "spec": "high",
+            "purpose": "pro"
+        },
+        {
+            "text": "Notebook para editar video",
+            "device": "notebook",
+            "spec": "high",
+            "purpose": "pro"
+        },
+        {
+            "text": "Notebook para computação gráfica",
+            "device": "notebook",
+            "spec": "high",
+            "purpose": "pro"
+        },
+        {
+            "text": "Procuro um Notebook para rodar todos jogos atuais",
+            "device": "notebook",
+            "spec": "high",
+            "purpose": "person"
+        },
+        {
+            "text": "Notebook gamer aaa",
+            "device": "notebook",
+            "spec": "high",
+            "purpose": "person"
+        },
+        {
+            "text": "Notebook parts ediçao de vídeo",
+            "device": "notebook",
+            "spec": "high",
+            "purpose": "pro"
+        },
+        {
+            "text": "Notebook para ediçao de vídeo",
+            "device": "notebook",
+            "spec": "high",
+            "purpose": "pro"
+        },
+        {
+            "text": "Notebook para edicao de video",
+            "device": "notebook",
+            "spec": "high",
+            "purpose": "pro"
+        },
+        {
+            "text": "Notebook para render 3D",
+            "device": "notebook",
+            "spec": "high",
+            "purpose": "pro"
+        },
+        {
+            "text": "Notebook para modelagem 3D",
+            "device": "notebook",
+            "spec": "high",
+            "purpose": "pro"
+        },
+        {
+            "text": "Notebook para streaming de vídeo",
+            "device": "notebook",
+            "spec": "high",
+            "purpose": "pro"
+        },
+        {
+            "text": "Notebook para rodar jogos pesados",
+            "device": "notebook",
+            "spec": "high",
+            "purpose": "person"
+        },
+        {
+            "text": "Quero um Notebook para rodar jogos pesados",
+            "device": "notebook",
+            "spec": "high",
+            "purpose": "person"
+        },
+        {
+            "text": "Preciso de um Notebook para edição",
+            "device": "notebook",
+            "spec": "high",
+            "purpose": "pro"
+        },
+        {
+            "text": "Notebook para live de gameplay",
+            "device": "notebook",
+            "spec": "high",
+            "purpose": "pro"
+        },
+        {
+            "text": "Notebook para gameplay",
+            "device": "notebook",
+            "spec": "high",
+            "purpose": "pro"
+        },
+        {
+            "text": "Notebook para fazer lives",
+            "device": "notebook",
+            "spec": "high",
+            "purpose": "pro"
+        },
+        {
+            "text": "Notebook para streaming de games",
+            "device": "notebook",
+            "spec": "high",
+            "purpose": "pro"
+        },
+        {
+            "text": "Notebook para streaming de jogos competitivos",
+            "device": "notebook",
+            "spec": "high",
+            "purpose": "pro"
+        },
+        {
+            "text": "Notebook para lives de jogos competitivos",
+            "device": "notebook",
+            "spec": "high",
+            "purpose": "pro"
+        },
+        {
+            "text": "Notebook para games e streaming",
+            "device": "notebook",
+            "spec": "high",
+            "purpose": "pro"
+        },
+        {
+            "text": "Notebook para games e lives",
+            "device": "notebook",
+            "spec": "high",
+            "purpose": "pro"
+        },
+        {
+            "text": "Notebook para jogos pesados",
+            "device": "notebook",
+            "spec": "high",
+            "purpose": "pro"
+        },
+        {
+            "text": "Notebook para uso profissional e jogos",
+            "device": "notebook",
+            "spec": "high",
+            "purpose": "pro"
+        },
+        {
+            "text": "Notebook para Ray Tracing",
+            "device": "notebook",
+            "spec": "high",
+            "purpose": "pro"
+        },
+        {
+            "text": "Notebook para jogar com Ray Tracing",
+            "device": "notebook",
+            "spec": "high",
+            "purpose": "pro"
+        },
+        {
+            "text": "Notebook para trabalho pesado",
+            "device": "notebook",
+            "spec": "high",
+            "purpose": "pro"
+        },
+        {
+            "text": "Notebook para processamento pesado",
+            "device": "notebook",
+            "spec": "high",
+            "purpose": "pro"
+        },
+        {
+            "text": "Notebook para jogar e fazer lives",
+            "device": "notebook",
+            "spec": "high",
+            "purpose": "pro"
+        },
+        {
+            "text": "Preciso de um Notebook para jogar e fazer lives",
+            "device": "notebook",
+            "spec": "high",
+            "purpose": "pro"
+        },
+        {
+            "text": "Quero um Notebook para jogar e fazer lives",
+            "device": "notebook",
+            "spec": "high",
+            "purpose": "pro"
+        },
+        {
+            "text": "Quero Notebook para jogar e fazer lives",
+            "device": "notebook",
+            "spec": "high",
+            "purpose": "pro"
+        },
+        {
+            "text": "Notebook para games pesados",
+            "device": "notebook",
+            "spec": "high",
+            "purpose": "person"
+        },
+        {
+            "text": "Notebook para programas pesados",
+            "device": "notebook",
+            "spec": "high",
+            "purpose": "pro"
+        },
+        {
+            "text": "Notebook para trabalhar e jogar em 4K",
+            "device": "notebook",
+            "spec": "high",
+            "purpose": "pro"
+        },
+        {
+            "text": "Notebook até 9000",
+            "device": "notebook",
+            "spec": "high",
+            "purpose": "pro"
+        },
+        {
+            "text": "Notebook para jogar em 4K",
+            "device": "notebook",
+            "spec": "high",
+            "purpose": "pro"
+        },
+        {
+            "text": "Laptop até 9000",
+            "device": "notebook",
+            "spec": "high",
+            "purpose": "pro"
+        },
+        {
+            "text": "Laptop para jogar em 4K",
+            "device": "notebook",
+            "spec": "high",
+            "purpose": "pro"
+        },
+        {
+            "text": "Laptop para render 3D",
+            "device": "notebook",
+            "spec": "high",
+            "purpose": "pro"
+        },
+        {
+            "text": "Laptop para editar vídeos e imagens",
+            "device": "notebook",
+            "spec": "high",
+            "purpose": "pro"
+        },
+        {
+            "text": "Laptop para render",
+            "device": "notebook",
+            "spec": "high",
+            "purpose": "pro"
+        },
+        {
+            "text": "Quero um Notebook para jogos pesados",
+            "device": "notebook",
+            "spec": "high",
+            "purpose": "person"
+        },
+        {
+            "text": "notebook para jogar alguns jogos",
+            "device": "notebook",
+            "spec": "mid",
+            "purpose": "person"
+        },
+        {
+            "text": "notebook para jogar the sims",
+            "device": "notebook",
+            "spec": "mid",
+            "purpose": "person"
+        },
+        {
+            "text": "notebook para jogar the sims 3",
+            "device": "notebook",
+            "spec": "mid",
+            "purpose": "person"
+        },
+        {
+            "text": "notebook para jogar barato",
+            "device": "notebook",
+            "spec": "mid",
+            "purpose": "person"
+        },
+        {
+            "text": "notebook para jogar free fire barato",
+            "device": "notebook",
+            "spec": "mid",
+            "purpose": "person"
+        },
+        {
+            "text": "notebooks para jogar i3",
+            "device": "notebook",
+            "spec": "mid",
+            "purpose": "person"
+        },
+        {
+            "text": "notebook para jogar lol",
+            "device": "notebook",
+            "spec": "mid",
+            "purpose": "person"
+        },
+        {
+            "text": "notebook para jogar lol 2021",
+            "device": "notebook",
+            "spec": "mid",
+            "purpose": "person"
+        },
+        {
+            "text": "notebook para jogar lol barato 2021",
+            "device": "notebook",
+            "spec": "mid",
+            "purpose": "person"
+        },
+        {
+            "text": "notebook para jogar jogos leves",
+            "device": "notebook",
+            "spec": "mid",
+            "purpose": "person"
+        },
+        {
+            "text": "notebook para jogar alguns jogos",
+            "device": "notebook",
+            "spec": "mid",
+            "purpose": "person"
+        },
+        {
+            "text": "notebook para jogar the sims",
+            "device": "notebook",
+            "spec": "mid",
+            "purpose": "person"
+        },
+        {
+            "text": "notebook para jogar the sims 3",
+            "device": "notebook",
+            "spec": "mid",
+            "purpose": "person"
+        },
+        {
+            "text": "notebook para jogar the sims 3",
+            "device": "notebook",
+            "spec": "mid",
+            "purpose": "person"
+        },
+        {
+            "text": "qual melhor notebook para jogar lol",
+            "device": "notebook",
+            "spec": "mid",
+            "purpose": "person"
+        },
+        {
+            "text": "notebook para jogar jogos leves",
+            "device": "notebook",
+            "spec": "mid",
+            "purpose": "person"
+        },
+        {
+            "text": "notebook para jogar minecraft",
+            "device": "notebook",
+            "spec": "low",
+            "purpose": "person"
+        },
+        {
+            "text": "qual o notebook para jogar minecraft",
+            "device": "notebook",
+            "spec": "low",
+            "purpose": "person"
+        },
+        {
+            "text": "qual notebook para jogar roblox",
+            "device": "notebook",
+            "spec": "low",
+            "purpose": "person"
+        },
+        {
+            "text": "notebook para jogar roblox",
+            "device": "notebook",
+            "spec": "low",
+            "purpose": "person"
+        },
+        {
+            "text": "notebook para jogar roblox barato",
+            "device": "notebook",
+            "spec": "low",
+            "purpose": "person"
+        },
+        {
+            "text": "notebook de jogar minecraft",
+            "device": "notebook",
+            "spec": "low",
+            "purpose": "person"
+        },
+        {
+            "text": "melhor notebook para jogar the sims 4",
+            "device": "notebook",
+            "spec": "mid",
+            "purpose": "person"
+        },
+        {
+            "text": "melhor notebook para jogar free fire",
+            "device": "notebook",
+            "spec": "mid",
+            "purpose": "person"
+        },
+        {
+            "text": "notebook para jogar poker",
+            "device": "notebook",
+            "spec": "mid",
+            "purpose": "person"
+        },
+        {
+            "text": "notebooks para jogar poker",
+            "device": "notebook",
+            "spec": "mid",
+            "purpose": "person"
+        },
+        {
+            "text": "notebook para jogar tibia",
+            "device": "notebook",
+            "spec": "low",
+            "purpose": "person"
+        },
+        {
+            "text": "notebook que dá para jogar free fire",
+            "device": "notebook",
+            "spec": "mid",
+            "purpose": "person"
+        },
+        {
+            "text": "notebook para jogar football manager",
+            "device": "notebook",
+            "spec": "mid",
+            "purpose": "person"
+        },
+        {
+            "text": "notebook para jogar point blank",
+            "device": "notebook",
+            "spec": "low",
+            "purpose": "person"
+        },
+        {
+            "text": "o melhor notebook para jogar euro truck simulator 2",
+            "device": "notebook",
+            "spec": "mid",
+            "purpose": "person"
+        },
+        {
+            "text": "notebook para jogar cities skylines",
+            "device": "notebook",
+            "spec": "mid",
+            "purpose": "person"
+        },
+        {
+            "text": "notebook para jogar euro truck simulator 2",
+            "device": "notebook",
+            "spec": "mid",
+            "purpose": "person"
+        },
+        {
+            "text": "notebook para jogar grand chase",
+            "device": "notebook",
+            "spec": "low",
+            "purpose": "person"
+        },
+        {
+            "text": "qual melhor notebook para jogar the sims 4",
+            "device": "notebook",
+            "spec": "mid",
+            "purpose": "person"
+        },
+        {
+            "text": "notebook para jogar the sims 4 2021",
+            "device": "notebook",
+            "spec": "mid",
+            "purpose": "person"
+        },
+        {
+            "text": "notebook para jogar the sims 4 2019",
+            "device": "notebook",
+            "spec": "mid",
+            "purpose": "person"
+        },
+        {
+            "text": "notebook para jogar the sims 4",
+            "device": "notebook",
+            "spec": "mid",
+            "purpose": "person"
+        },
+        {
+            "text": "notebook para jogar the sims 4 2021",
+            "device": "notebook",
+            "spec": "mid",
+            "purpose": "person"
+        },
+        {
+            "text": "notebook para jogar the sims 4 2020",
+            "device": "notebook",
+            "spec": "mid",
+            "purpose": "person"
+        },
+        {
+            "text": "notebook para jogar the sims 4 2019",
+            "device": "notebook",
+            "spec": "mid",
+            "purpose": "person"
+        },
+        {
+            "text": "notebook que da para jogar the sims 4",
+            "device": "notebook",
+            "spec": "mid",
+            "purpose": "person"
+        },
+        {
+            "text": "notebook para jogar the sims 4",
+            "device": "notebook",
+            "spec": "mid",
+            "purpose": "person"
+        },
+        {
+            "text": "notebook para jogar the sims 4 2020",
+            "device": "notebook",
+            "spec": "mid",
+            "purpose": "person"
+        },
+        {
+            "text": "notebook para jogar the sims 4",
+            "device": "notebook",
+            "spec": "mid",
+            "purpose": "person"
+        },
+        {
+            "text": "notebook para jogar the sims 4 2020",
+            "device": "notebook",
+            "spec": "mid",
+            "purpose": "person"
+        },
+        {
+            "text": "notebook para jogar the sims 4 2021",
+            "device": "notebook",
+            "spec": "mid",
+            "purpose": "person"
+        },
+        {
+            "text": "notebook para jogar the sims 4 2019",
+            "device": "notebook",
+            "spec": "mid",
+            "purpose": "person"
+        },
+        {
+            "text": "notebook ideal para jogar the sims 4",
+            "device": "notebook",
+            "spec": "mid",
+            "purpose": "person"
+        },
+        {
+            "text": "notebook para jogar lol barato",
+            "device": "notebook",
+            "spec": "mid",
+            "purpose": "person"
+        },
+        {
+            "text": "notebook para jogar lol barato 2021",
+            "device": "notebook",
+            "spec": "mid",
+            "purpose": "person"
+        },
+        {
+            "text": "notebook para jogar fortnite barato",
+            "device": "notebook",
+            "spec": "mid",
+            "purpose": "person"
+        },
+        {
+            "text": "notebook para jogar cs go",
+            "device": "notebook",
+            "spec": "mid",
+            "purpose": "person"
+        },
+        {
+            "text": "notebooks para jogar cs go",
+            "device": "notebook",
+            "spec": "mid",
+            "purpose": "person"
+        },
+        {
+            "text": "notebook para jogar cod",
+            "device": "notebook",
+            "spec": "high",
+            "purpose": "person"
+        },
+        {
+            "text": "notebook para jogar counter strike",
+            "device": "notebook",
+            "spec": "mid",
+            "purpose": "person"
+        },
+        {
+            "text": "notebook para jogar cs go",
+            "device": "notebook",
+            "spec": "mid",
+            "purpose": "person"
+        },
+        {
+            "text": "notebook para jogar cs go 2020",
+            "device": "notebook",
+            "spec": "mid",
+            "purpose": "person"
+        },
+        {
+            "text": "notebook bom para jogar gta rp",
+            "device": "notebook",
+            "spec": "high",
+            "purpose": "person"
+        },
+        {
+            "text": "notebooks para jogar cs go",
+            "device": "notebook",
+            "spec": "mid",
+            "purpose": "person"
+        },
+        {
+            "text": "notebook para jogo",
+            "device": "notebook",
+            "spec": "mid",
+            "purpose": "person"
+        },
+        {
+            "text": "notebook jogar jogos",
+            "device": "notebook",
+            "spec": "mid",
+            "purpose": "person"
+        },
+        {
+            "text": "notebooks para jogar",
+            "device": "notebook",
+            "spec": "mid",
+            "purpose": "person"
+        },
+        {
+            "text": "notebook para jogo",
+            "device": "notebook",
+            "spec": "mid",
+            "purpose": "person"
+        },
+        {
+            "text": "notebook ideal para jogar",
+            "device": "notebook",
+            "spec": "mid",
+            "purpose": "person"
+        },
+        {
+            "text": "notebook para poder jogar jogos",
+            "device": "notebook",
+            "spec": "mid",
+            "purpose": "person"
+        },
+        {
+            "text": "marca de notebook para jogar jogos",
+            "device": "notebook",
+            "spec": "mid",
+            "purpose": "person"
+        },
+        {
+            "text": "qual o notebook para jogar",
+            "device": "notebook",
+            "spec": "mid",
+            "purpose": "person"
+        },
+        {
+            "text": "notebook ou desktop para jogar",
+            "device": "notebook",
+            "spec": "mid",
+            "purpose": "person"
+        },
+        {
+            "text": "notebook quero jogar",
+            "device": "notebook",
+            "spec": "mid",
+            "purpose": "person"
+        },
+        {
+            "text": "notebook que de para jogar",
+            "device": "notebook",
+            "spec": "mid",
+            "purpose": "person"
+        },
+        {
+            "text": "notebook recomendado para jogar",
+            "device": "notebook",
+            "spec": "mid",
+            "purpose": "person"
+        },
+        {
+            "text": "notebook para jogar world of warcraft",
+            "device": "notebook",
+            "spec": "mid",
+            "purpose": "person"
+        },
+        {
+            "text": "notebook para jogar wow",
+            "device": "notebook",
+            "spec": "mid",
+            "purpose": "person"
+        },
+        {
+            "text": "notebook para jogar pubg mobile",
+            "device": "notebook",
+            "spec": "mid",
+            "purpose": "person"
+        },
+        {
+            "text": "notebook para jogar smite",
+            "device": "notebook",
+            "spec": "mid",
+            "purpose": "person"
+        },
+        {
+            "text": "notebook para jogar planet coaster",
+            "device": "notebook",
+            "spec": "mid",
+            "purpose": "person"
+        },
+        {
+            "text": "notebook potente para jogos",
+            "device": "notebook",
+            "spec": "high",
+            "purpose": "person"
+        },
+        {
+            "text": "notebook potente e rápido",
+            "device": "notebook",
+            "spec": "high",
+            "purpose": "person"
+        },
+        {
+            "text": "notebook potente que rode jogos pesados",
+            "device": "notebook",
+            "spec": "high",
+            "purpose": "person"
+        },
+        {
+            "text": "Quero um notebook potente para jogar",
+            "device": "notebook",
+            "spec": "high",
+            "purpose": "person"
+        },
+        {
+            "text": "qual melhor notebook para jogar",
+            "device": "notebook",
+            "spec": "high",
+            "purpose": "person"
+        },
+        {
+            "text": "melhor notebook para jogar",
+            "device": "notebook",
+            "spec": "high",
+            "purpose": "person"
+        },
+        {
+            "text": "notebook para jogar cyberpunk 2077",
+            "device": "notebook",
+            "spec": "high",
+            "purpose": "person"
+        },
+        {
+            "text": "notebook para jogar apex",
+            "device": "notebook",
+            "spec": "high",
+            "purpose": "person"
+        },
+        {
+            "text": "notebook para jogar dead by daylight",
+            "device": "notebook",
+            "spec": "high",
+            "purpose": "person"
+        },
+        {
+            "text": "notebook para jogar genshin impact",
+            "device": "notebook",
+            "spec": "mid",
+            "purpose": "person"
+        },
+        {
+            "text": "notebook para jogar genshin impact",
+            "device": "notebook",
+            "spec": "mid",
+            "purpose": "person"
+        },
+        {
+            "text": "notebook para jogar the witcher 3",
+            "device": "notebook",
+            "spec": "high",
+            "purpose": "person"
+        },
+        {
+            "text": "notebook para jogar the witcher 3",
+            "device": "notebook",
+            "spec": "high",
+            "purpose": "person"
+        },
+        {
+            "text": "notebook para jogar overwatch",
+            "device": "notebook",
+            "spec": "mid",
+            "purpose": "person"
+        },
+        {
+            "text": "requisitos para jogar warzone no notebook",
+            "device": "notebook",
+            "spec": "high",
+            "purpose": "person"
+        },
+        {
+            "text": "notebook para jogar warzone",
+            "device": "notebook",
+            "spec": "high",
+            "purpose": "person"
+        },
+        {
+            "text": "notebook para jogar call of dutty warzone",
+            "device": "notebook",
+            "spec": "high",
+            "purpose": "person"
+        },
+        {
+            "text": "notebook para jogar cod warzone",
+            "device": "notebook",
+            "spec": "high",
+            "purpose": "person"
+        },
+        {
+            "text": "notebook para jogar rainbow six siege",
+            "device": "notebook",
+            "spec": "high",
+            "purpose": "person"
+        },
+        {
+            "text": "notebook para jogar r6",
+            "device": "notebook",
+            "spec": "high",
+            "purpose": "person"
+        },
+        {
+            "text": "notebook para jogar rainbow six siege",
+            "device": "notebook",
+            "spec": "high",
+            "purpose": "person"
+        },
+        {
+            "text": "notebook para jogar valorant",
+            "device": "notebook",
+            "spec": "mid",
+            "purpose": "person"
+        },
+        {
+            "text": "melhores notebooks para jogar valorant",
+            "device": "notebook",
+            "spec": "mid",
+            "purpose": "person"
+        },
+        {
+            "text": "notebook bom para jogar gta v",
+            "device": "notebook",
+            "spec": "mid",
+            "purpose": "person"
+        },
+        {
+            "text": "notebook para jogar pubg",
+            "device": "notebook",
+            "spec": "high",
+            "purpose": "person"
+        },
+        {
+            "text": "notebook bom para jogar gta rp",
+            "device": "notebook",
+            "spec": "high",
+            "purpose": "person"
+        },
+        {
+            "text": "notebook para jogar gta rp",
+            "device": "notebook",
+            "spec": "high",
+            "purpose": "person"
+        },
+        {
+            "text": "notebook para jogar pes 2021",
+            "device": "notebook",
+            "spec": "high",
+            "purpose": "person"
+        },
+        {
+            "text": "notebook para jogar pes 2020",
+            "device": "notebook",
+            "spec": "high",
+            "purpose": "person"
+        },
+        {
+            "text": "PC para jogar League of Legends",
+            "device": "desktop",
+            "spec": "mid",
+            "purpose": "person"
+        },
+        {
+            "text": "Procuro um pc para rodar apenas jogos leves como League of Legends ou MTG Arena e principalmente para trabalhos com artes digitais em programas como Corel, Figma, ilustrator ou Photoshop.",
+            "device": "desktop",
+            "spec": "mid",
+            "purpose": "pro"
+        },
+        {
+            "text": "Procuro um pc para rodar apenas jogos leves como League of Legends",
+            "device": "desktop",
+            "spec": "mid",
+            "purpose": "person"
+        },
+        {
+            "text": "Procuro um pc para rodar League of Legends",
+            "device": "desktop",
+            "spec": "mid",
+            "purpose": "person"
+        },
+        {
+            "text": "Quero um pc para jogos leves como League of Legends e para trabalhos com artes digitais",
+            "device": "desktop",
+            "spec": "mid",
+            "purpose": "pro"
+        },
+        {
+            "text": "Procuro um pc para jogos leves e principalmente para trabalhos em programas como Corel, Figma, ilustrator ou Photoshop.",
+            "device": "desktop",
+            "spec": "mid",
+            "purpose": "pro"
+        },
+        {
+            "text": "Procuro um computador para rodar jogos leves como MTG Arena e para trabalhos com artes digitais em programas como Photoshop, Corel, Figma e ilustrator",
+            "device": "desktop",
+            "spec": "mid",
+            "purpose": "pro"
+        },
+        {
+            "text": "procuro um computador para jogos leves como League of Legends ou MTG Arena e para trabalhos com artes digitais em programas como Corel, Figma, ilustrator ou Photoshop.",
+            "device": "desktop",
+            "spec": "mid",
+            "purpose": "pro"
+        },
+        {
+            "text": "PC simples",
+            "device": "desktop",
+            "spec": "low",
+            "purpose": "person"
+        },
+        {
+            "text": "PC para uso leve",
+            "device": "desktop",
+            "spec": "low",
+            "purpose": "person"
+        },
+        {
+            "text": "Maquina para jogar jogos leves",
+            "device": "desktop",
+            "spec": "mid",
+            "purpose": "person"
+        },
+        {
+            "text": "PC para design",
+            "device": "desktop",
+            "spec": "mid",
+            "purpose": "pro"
+        },
+        {
+            "text": "PC para trabalhar com audio",
+            "device": "desktop",
+            "spec": "mid",
+            "purpose": "pro"
+        },
+        {
+            "text": "Gostaria de um pc para jogar games leves",
+            "device": "desktop",
+            "spec": "mid",
+            "purpose": "person"
+        },
+        {
+            "text": "Computador simples",
+            "device": "desktop",
+            "spec": "low",
+            "purpose": "person"
+        },
+        {
+            "text": "Computador para trabalho e rodar jogos",
+            "device": "desktop",
+            "spec": "mid",
+            "purpose": "pro"
+        },
+        {
+            "text": "PC para trabalhar e rodar jogos",
+            "device": "desktop",
+            "spec": "mid",
+            "purpose": "pro"
+        },
+        {
+            "text": "PC para trabalho e jogos",
+            "device": "desktop",
+            "spec": "mid",
+            "purpose": "pro"
+        },
+        {
+            "text": "Computador para jogar",
+            "device": "desktop",
+            "spec": "mid",
+            "purpose": "person"
+        },
+        {
+            "text": "Computador para jogos",
+            "device": "desktop",
+            "spec": "mid",
+            "purpose": "person"
+        },
+        {
+            "text": "Computador Gamer",
+            "device": "desktop",
+            "spec": "high",
+            "purpose": "person"
+        },
+        {
+            "text": "Maquina para rodar games",
+            "device": "desktop",
+            "spec": "mid",
+            "purpose": "person"
+        },
+        {
+            "text": "Maquina para games",
+            "device": "desktop",
+            "spec": "mid",
+            "purpose": "person"
+        },
+        {
+            "text": "Maquina para jogos",
+            "device": "desktop",
+            "spec": "mid",
+            "purpose": "person"
+        },
+        {
+            "text": "PC para jogos",
+            "device": "desktop",
+            "spec": "mid",
+            "purpose": "person"
+        },
+        {
+            "text": "PC para jogar",
+            "device": "desktop",
+            "spec": "mid",
+            "purpose": "person"
+        },
+        {
+            "text": "PC para rodar jogos",
+            "device": "desktop",
+            "spec": "mid",
+            "purpose": "person"
+        },
+        {
+            "text": "Computador para rodar jogar",
+            "device": "desktop",
+            "spec": "mid",
+            "purpose": "person"
+        },
+        {
+            "text": "PC para trabalhar e jogar",
+            "device": "desktop",
+            "spec": "mid",
+            "purpose": "pro"
+        },
+        {
+            "text": "Computador para Office",
+            "device": "desktop",
+            "spec": "low",
+            "purpose": "pro"
+        },
+        {
+            "text": "Computador para Excel",
+            "device": "desktop",
+            "spec": "low",
+            "purpose": "pro"
+        },
+        {
+            "text": "Computador para Word",
+            "device": "desktop",
+            "spec": "low",
+            "purpose": "pro"
+        },
+        {
+            "text": "Computador para Power Point",
+            "device": "desktop",
+            "spec": "low",
+            "purpose": "pro"
+        },
+        {
+            "text": "Computador barato",
+            "device": "desktop",
+            "spec": "low",
+            "purpose": "person"
+        },
+        {
+            "text": "Pc barato para uso domestico",
+            "device": "desktop",
+            "spec": "low",
+            "purpose": "person"
+        },
+        {
+            "text": "Pc barato",
+            "device": "desktop",
+            "spec": "low",
+            "purpose": "person"
+        },
+        {
+            "text": "Computador para crianças jogarem",
+            "device": "desktop",
+            "spec": "low",
+            "purpose": "person"
+        },
+        {
+            "text": "Pc barato para estudar",
+            "device": "desktop",
+            "spec": "low",
+            "purpose": "person"
+        },
+        {
+            "text": "PC para uso cotidiano",
+            "device": "desktop",
+            "spec": "low",
+            "purpose": "person"
+        },
+        {
+            "text": "PC para navegação",
+            "device": "desktop",
+            "spec": "low",
+            "purpose": "person"
+        },
+        {
+            "text": "PC para assistir vídeos",
+            "device": "desktop",
+            "spec": "low",
+            "purpose": "person"
+        },
+        {
+            "text": "PC para estudar",
+            "device": "desktop",
+            "spec": "low",
+            "purpose": "person"
+        },
+        {
+            "text": "PC para escritorio",
+            "device": "desktop",
+            "spec": "low",
+            "purpose": "pro"
+        },
+        {
+            "text": "Computador para usar no escritorio",
+            "device": "desktop",
+            "spec": "low",
+            "purpose": "pro"
+        },
+        {
+            "text": "Computador para faculdade",
+            "device": "desktop",
+            "spec": "low",
+            "purpose": "person"
+        },
+        {
+            "text": "PC para fazer os trabalhos da faculdade",
+            "device": "desktop",
+            "spec": "low",
+            "purpose": "person"
+        },
+        {
+            "text": "Maquina para faculdade",
+            "device": "desktop",
+            "spec": "low",
+            "purpose": "person"
+        },
+        {
+            "text": "Computador para uso administrativo",
+            "device": "desktop",
+            "spec": "low",
+            "purpose": "pro"
+        },
+        {
+            "text": "Maquina para trabalho administrativo",
+            "device": "desktop",
+            "spec": "low",
+            "purpose": "pro"
+        },
+        {
+            "text": "PC para administração de empresas",
+            "device": "desktop",
+            "spec": "low",
+            "purpose": "pro"
+        },
+        {
+            "text": "Computador para rodar Lubuntu",
+            "device": "desktop",
+            "spec": "low",
+            "purpose": "person"
+        },
+        {
+            "text": "Computador até 2000",
+            "device": "desktop",
+            "spec": "low",
+            "purpose": "person"
+        },
+        {
+            "text": "Preciso de um computador barato para trabalhar",
+            "device": "desktop",
+            "spec": "low",
+            "purpose": "pro"
+        },
+        {
+            "text": "Pc barato para trabalhar",
+            "device": "desktop",
+            "spec": "low",
+            "purpose": "pro"
+        },
+        {
+            "text": "Pc para estudar",
+            "device": "desktop",
+            "spec": "low",
+            "purpose": "person"
+        },
+        {
+            "text": "Pc para uso no dia a dia",
+            "device": "desktop",
+            "spec": "low",
+            "purpose": "person"
+        },
+        {
+            "text": "Estudar",
+            "device": "desktop",
+            "spec": "low",
+            "purpose": "person"
+        },
+        {
+            "text": "PC para trabalhos administrativos",
+            "device": "desktop",
+            "spec": "low",
+            "purpose": "pro"
+        },
+        {
+            "text": "Pc para uso simples, de baixo custo",
+            "device": "desktop",
+            "spec": "low",
+            "purpose": "person"
+        },
+        {
+            "text": "PC para jogos leves e trabalho",
+            "device": "desktop",
+            "spec": "mid",
+            "purpose": "pro"
+        },
+        {
+            "text": "PC para jogar PUBG Lite",
+            "device": "desktop",
+            "spec": "mid",
+            "purpose": "person"
+        },
+        {
+            "text": "PC para jogar CS GO",
+            "device": "desktop",
+            "spec": "mid",
+            "purpose": "person"
+        },
+        {
+            "text": "PC para jogar Minecraft",
+            "device": "desktop",
+            "spec": "low",
+            "purpose": "person"
+        },
+        {
+            "text": "Computador para edição de imagem",
+            "device": "desktop",
+            "spec": "mid",
+            "purpose": "pro"
+        },
+        {
+            "text": "PC para editar imagem",
+            "device": "desktop",
+            "spec": "mid",
+            "purpose": "pro"
+        },
+        {
+            "text": "PC para trabalhar com Design",
+            "device": "desktop",
+            "spec": "mid",
+            "purpose": "pro"
+        },
+        {
+            "text": "PC para edição de gráficos",
+            "device": "desktop",
+            "spec": "mid",
+            "purpose": "pro"
+        },
+        {
+            "text": "Computador para editar vetores",
+            "device": "desktop",
+            "spec": "mid",
+            "purpose": "pro"
+        },
+        {
+            "text": "Computador para photoshop",
+            "device": "desktop",
+            "spec": "mid",
+            "purpose": "pro"
+        },
+        {
+            "text": "Computador para figma",
+            "device": "desktop",
+            "spec": "mid",
+            "purpose": "pro"
+        },
+        {
+            "text": "Computador para illustrator",
+            "device": "desktop",
+            "spec": "mid",
+            "purpose": "pro"
+        },
+        {
+            "text": "Computador para core drawn",
+            "device": "desktop",
+            "spec": "mid",
+            "purpose": "pro"
+        },
+        {
+            "text": "Computador para design de audio",
+            "device": "desktop",
+            "spec": "mid",
+            "purpose": "pro"
+        },
+        {
+            "text": "PC para engenheiro de audio",
+            "device": "desktop",
+            "spec": "mid",
+            "purpose": "pro"
+        },
+        {
+            "text": "PC para processamento de audio",
+            "device": "desktop",
+            "spec": "mid",
+            "purpose": "pro"
+        },
+        {
+            "text": "PC para programação",
+            "device": "desktop",
+            "spec": "mid",
+            "purpose": "pro"
+        },
+        {
+            "text": "PC para mixar musicas",
+            "device": "desktop",
+            "spec": "mid",
+            "purpose": "pro"
+        },
+        {
+            "text": "PC para trabalhar com audiovisual",
+            "device": "desktop",
+            "spec": "high",
+            "purpose": "pro"
+        },
+        {
+            "text": "PC para engenharia de audio",
+            "device": "desktop",
+            "spec": "mid",
+            "purpose": "pro"
+        },
+        {
+            "text": "Maquina para trabalhar com audio",
+            "device": "desktop",
+            "spec": "mid",
+            "purpose": "pro"
+        },
+        {
+            "text": "Maquina para trabalhar com engenharia de audio",
+            "device": "desktop",
+            "spec": "mid",
+            "purpose": "pro"
+        },
+        {
+            "text": "Maquina para trabalhar com edição de audio",
+            "device": "desktop",
+            "spec": "mid",
+            "purpose": "pro"
+        },
+        {
+            "text": "PC para designer de audio",
+            "device": "desktop",
+            "spec": "mid",
+            "purpose": "pro"
+        },
+        {
+            "text": "PC para trabalhar com design de audio",
+            "device": "desktop",
+            "spec": "mid",
+            "purpose": "pro"
+        },
+        {
+            "text": "PC para edição de audio",
+            "device": "desktop",
+            "spec": "mid",
+            "purpose": "pro"
+        },
+        {
+            "text": "Maquina para rodar alguns jogos",
+            "device": "desktop",
+            "spec": "mid",
+            "purpose": "person"
+        },
+        {
+            "text": "Maquina para jogar games leves",
+            "device": "desktop",
+            "spec": "mid",
+            "purpose": "person"
+        },
+        {
+            "text": "Maquina para games leves",
+            "device": "desktop",
+            "spec": "mid",
+            "purpose": "person"
+        },
+        {
+            "text": "Maquina para jogos leves",
+            "device": "desktop",
+            "spec": "mid",
+            "purpose": "person"
+        },
+        {
+            "text": "Maquina para jogar barata",
+            "device": "desktop",
+            "spec": "mid",
+            "purpose": "person"
+        },
+        {
+            "text": "PC para jogar barato",
+            "device": "desktop",
+            "spec": "mid",
+            "purpose": "person"
+        },
+        {
+            "text": "PC para rodar jogos barato",
+            "device": "desktop",
+            "spec": "mid",
+            "purpose": "person"
+        },
+        {
+            "text": "PC para jogos leves",
+            "device": "desktop",
+            "spec": "mid",
+            "purpose": "person"
+        },
+        {
+            "text": "Computador barato para jogar",
+            "device": "desktop",
+            "spec": "mid",
+            "purpose": "person"
+        },
+        {
+            "text": "Computador barato para rodar jogos",
+            "device": "desktop",
+            "spec": "mid",
+            "purpose": "person"
+        },
+        {
+            "text": "Computador para jogar jogos leves",
+            "device": "desktop",
+            "spec": "mid",
+            "purpose": "person"
+        },
+        {
+            "text": "Computador para jogos leves",
+            "device": "desktop",
+            "spec": "mid",
+            "purpose": "person"
+        },
+        {
+            "text": "Computador barato para jogos",
+            "device": "desktop",
+            "spec": "mid",
+            "purpose": "person"
+        },
+        {
+            "text": "Pc barato para estudos e games",
+            "device": "desktop",
+            "spec": "mid",
+            "purpose": "person"
+        },
+        {
+            "text": "Pc barato para games",
+            "device": "desktop",
+            "spec": "mid",
+            "purpose": "person"
+        },
+        {
+            "text": "PC barato para jogar",
+            "device": "desktop",
+            "spec": "mid",
+            "purpose": "person"
+        },
+        {
+            "text": "Pc barato para edição",
+            "device": "desktop",
+            "spec": "mid",
+            "purpose": "pro"
+        },
+        {
+            "text": "PC para jogar jogos leves",
+            "device": "desktop",
+            "spec": "mid",
+            "purpose": "person"
+        },
+        {
+            "text": "Maquina para jogar as vezes",
+            "device": "desktop",
+            "spec": "mid",
+            "purpose": "person"
+        },
+        {
+            "text": "PC para jogar de vez em quando",
+            "device": "desktop",
+            "spec": "mid",
+            "purpose": "person"
+        },
+        {
+            "text": "Maquina para jogos simples",
+            "device": "desktop",
+            "spec": "mid",
+            "purpose": "person"
+        },
+        {
+            "text": "PC para games leves",
+            "device": "desktop",
+            "spec": "mid",
+            "purpose": "person"
+        },
+        {
+            "text": "Computador para uso simples",
+            "device": "desktop",
+            "spec": "low",
+            "purpose": "person"
+        },
+        {
+            "text": "Computador para trabalho",
+            "device": "desktop",
+            "spec": "low",
+            "purpose": "pro"
+        },
+        {
+            "text": "Maquina para trabalho",
+            "device": "desktop",
+            "spec": "low",
+            "purpose": "pro"
+        },
+        {
+            "text": "Computador para rodar Linux",
+            "device": "desktop",
+            "spec": "low",
+            "purpose": "pro"
+        },
+        {
+            "text": "Computador para rodar Ubuntu",
+            "device": "desktop",
+            "spec": "low",
+            "purpose": "pro"
+        },
+        {
+            "text": "Computador para rodar Linux Mint",
+            "device": "desktop",
+            "spec": "low",
+            "purpose": "pro"
+        },
+        {
+            "text": "Computador até 3000",
+            "device": "desktop",
+            "spec": "low",
+            "purpose": "pro"
+        },
+        {
+            "text": "Computador para programar",
+            "device": "desktop",
+            "spec": "mid",
+            "purpose": "pro"
+        },
+        {
+            "text": "Quero um computador para programar",
+            "device": "desktop",
+            "spec": "mid",
+            "purpose": "pro"
+        },
+        {
+            "text": "Pc para programação",
+            "device": "desktop",
+            "spec": "mid",
+            "purpose": "pro"
+        },
+        {
+            "text": "Pc para jogos leves",
+            "device": "desktop",
+            "spec": "mid",
+            "purpose": "person"
+        },
+        {
+            "text": "Pc para edição de imagem",
+            "device": "desktop",
+            "spec": "mid",
+            "purpose": "pro"
+        },
+        {
+            "text": "Pc para analise de dados",
+            "device": "desktop",
+            "spec": "mid",
+            "purpose": "pro"
+        },
+        {
+            "text": "Pc para engenharia",
+            "device": "desktop",
+            "spec": "mid",
+            "purpose": "pro"
+        },
+        {
+            "text": "Computador barato para games",
+            "device": "desktop",
+            "spec": "mid",
+            "purpose": "person"
+        },
+        {
+            "text": "Quero um computador para jogar games como Minecraft",
+            "device": "desktop",
+            "spec": "low",
+            "purpose": "person"
+        },
+        {
+            "text": "Quero um computador para jogar alguns jogos leves",
+            "device": "desktop",
+            "spec": "low",
+            "purpose": "person"
+        },
+        {
+            "text": "Computador para jogar jogos leves como Roblox e Minecraft",
+            "device": "desktop",
+            "spec": "low",
+            "purpose": "person"
+        },
+        {
+            "text": "Computador barato que rode Minecraft",
+            "device": "desktop",
+            "spec": "low",
+            "purpose": "person"
+        },
+        {
+            "text": "Maquina para jogar alguns jogos leves",
+            "device": "desktop",
+            "spec": "low",
+            "purpose": "person"
+        },
+        {
+            "text": "PC para rodar jogos leves e para trabalhos com artes digitais em programas como Photoshop, Corel, Figma e ilustrator",
+            "device": "desktop",
+            "spec": "mid",
+            "purpose": "pro"
+        },
+        {
+            "text": "PC para produtividade",
+            "device": "desktop",
+            "spec": "mid",
+            "purpose": "pro"
+        },
+        {
+            "text": "Computador para produtividade",
+            "device": "desktop",
+            "spec": "mid",
+            "purpose": "pro"
+        },
+        {
+            "text": "Procuro um pc para trabalhos com artes digitais em programas como Corel, Figma, ilustrator ou Photoshop.",
+            "device": "desktop",
+            "spec": "mid",
+            "purpose": "pro"
+        },
+        {
+            "text": "Procuro um pc para rodar Figma, ilustrator ou Photoshop.",
+            "device": "desktop",
+            "spec": "mid",
+            "purpose": "pro"
+        },
+        {
+            "text": "Pc para programação ",
+            "device": "desktop",
+            "spec": "mid",
+            "purpose": "pro"
+        },
+        {
+            "text": "Pc para rodar Android Studio",
+            "device": "desktop",
+            "spec": "mid",
+            "purpose": "pro"
+        },
+        {
+            "text": "Pc para rodar GTA V",
+            "device": "desktop",
+            "spec": "mid",
+            "purpose": "person"
+        },
+        {
+            "text": "Procuro um pc para rodar emuladores",
+            "device": "desktop",
+            "spec": "mid",
+            "purpose": "person"
+        },
+        {
+            "text": "Pc para machine learning",
+            "device": "desktop",
+            "spec": "mid",
+            "purpose": "pro"
+        },
+        {
+            "text": "computador para programação",
+            "device": "desktop",
+            "spec": "mid",
+            "purpose": "pro"
+        },
+        {
+            "text": "Pc para lazer",
+            "device": "desktop",
+            "spec": "low",
+            "purpose": "person"
+        },
+        {
+            "text": "PC gamer barato",
+            "device": "desktop",
+            "spec": "mid",
+            "purpose": "person"
+        },
+        {
+            "text": "Pc uso cotidiano",
+            "device": "desktop",
+            "spec": "low",
+            "purpose": "person"
+        },
+        {
+            "text": "Procuro um pc para rodar apenas jogos leves",
+            "device": "desktop",
+            "spec": "mid",
+            "purpose": "person"
+        },
+        {
+            "text": "Maquina para jogar e trabalhar",
+            "device": "desktop",
+            "spec": "mid",
+            "purpose": "pro"
+        },
+        {
+            "text": "Maquina para trabalhar e jogar",
+            "device": "desktop",
+            "spec": "mid",
+            "purpose": "pro"
+        },
+        {
+            "text": "PC para jogar GTA V",
+            "device": "desktop",
+            "spec": "mid",
+            "purpose": "person"
+        },
+        {
+            "text": "PC para jogar Fortnite",
+            "device": "desktop",
+            "spec": "mid",
+            "purpose": "person"
+        },
+        {
+            "text": "PC para jogar Apex",
+            "device": "desktop",
+            "spec": "high",
+            "purpose": "person"
+        },
+        {
+            "text": "PC para jogar Emuladores",
+            "device": "desktop",
+            "spec": "mid",
+            "purpose": "person"
+        },
+        {
+            "text": "PC para jogar Battlefield",
+            "device": "desktop",
+            "spec": "high",
+            "purpose": "person"
+        },
+        {
+            "text": "PC para jogar Call of dutty",
+            "device": "desktop",
+            "spec": "high",
+            "purpose": "person"
+        },
+        {
+            "text": "PC para jogar lançamentos",
+            "device": "desktop",
+            "spec": "high",
+            "purpose": "person"
+        },
+        {
+            "text": "Computador para processamento de imagens",
+            "device": "desktop",
+            "spec": "mid",
+            "purpose": "pro"
+        },
+        {
+            "text": "PC para edição de vídeo em full HD",
+            "device": "desktop",
+            "spec": "high",
+            "purpose": "pro"
+        },
+        {
+            "text": "Maquina para trabalhar e jogar de vez em quando",
+            "device": "desktop",
+            "spec": "mid",
+            "purpose": "pro"
+        },
+        {
+            "text": "Computador para trabalhar e jogar",
+            "device": "desktop",
+            "spec": "mid",
+            "purpose": "pro"
+        },
+        {
+            "text": "Computador para jogar e trabalhar",
+            "device": "desktop",
+            "spec": "mid",
+            "purpose": "pro"
+        },
+        {
+            "text": "Computador Gamer barato",
+            "device": "desktop",
+            "spec": "mid",
+            "purpose": "person"
+        },
+        {
+            "text": "PC Gamer barato",
+            "device": "desktop",
+            "spec": "mid",
+            "purpose": "person"
+        },
+        {
+            "text": "Maquina Gamer barata",
+            "device": "desktop",
+            "spec": "mid",
+            "purpose": "person"
+        },
+        {
+            "text": "PC Gamer",
+            "device": "desktop",
+            "spec": "mid",
+            "purpose": "person"
+        },
+        {
+            "text": "PC Rápido",
+            "device": "desktop",
+            "spec": "mid",
+            "purpose": "person"
+        },
+        {
+            "text": "Computador para rodar Deepin",
+            "device": "desktop",
+            "spec": "mid",
+            "purpose": "person"
+        },
+        {
+            "text": "Computador para Hackintosh",
+            "device": "desktop",
+            "spec": "mid",
+            "purpose": "pro"
+        },
+        {
+            "text": "Computador para aplicações pesadas",
+            "device": "desktop",
+            "spec": "high",
+            "purpose": "pro"
+        },
+        {
+            "text": "Computador até 4000",
+            "device": "desktop",
+            "spec": "mid",
+            "purpose": "person"
+        },
+        {
+            "text": "Pretendo montar um computador para as seguintes funções e programas. Orçamento R$4.000 (se puder parcelar, pode ir até uns 4.500 e 5.000), Edição de videos em 4k (Adobe Premiere Pro), Render animações (After Effects), Color Grading (DaVinci Resolve), Tratamento de fotografia (Lightroom)",
+            "device": "desktop",
+            "spec": "mid",
+            "purpose": "pro"
+        },
+        {
+            "text": "Pc para rodar docker",
+            "device": "desktop",
+            "spec": "mid",
+            "purpose": "pro"
+        },
+        {
+            "text": "Procuro um pc para rodar autocad",
+            "device": "desktop",
+            "spec": "mid",
+            "purpose": "pro"
+        },
+        {
+            "text": "Computador para rodar 3DSMAX",
+            "device": "desktop",
+            "spec": "high",
+            "purpose": "pro"
+        },
+        {
+            "text": "Pc para rodar emulador de ps2",
+            "device": "desktop",
+            "spec": "mid",
+            "purpose": "person"
+        },
+        {
+            "text": "Pc para rodar Resident Evil 3",
+            "device": "desktop",
+            "spec": "high",
+            "purpose": "person"
+        },
+        {
+            "text": "Computador para games",
+            "device": "desktop",
+            "spec": "mid",
+            "purpose": "person"
+        },
+        {
+            "text": "PC para games",
+            "device": "desktop",
+            "spec": "mid",
+            "purpose": "person"
+        },
+        {
+            "text": "Pc para GTA V",
+            "device": "desktop",
+            "spec": "mid",
+            "purpose": "person"
+        },
+        {
+            "text": "Preciso de um pc para jogos",
+            "device": "desktop",
+            "spec": "mid",
+            "purpose": "person"
+        },
+        {
+            "text": "Computador gamer",
+            "device": "desktop",
+            "spec": "high",
+            "purpose": "person"
+        },
+        {
+            "text": "Pc gamer",
+            "device": "desktop",
+            "spec": "high",
+            "purpose": "person"
+        },
+        {
+            "text": "Maquina Gamer",
+            "device": "desktop",
+            "spec": "high",
+            "purpose": "person"
+        },
+        {
+            "text": "PC para fotografia",
+            "device": "desktop",
+            "spec": "mid",
+            "purpose": "pro"
+        },
+        {
+            "text": "Computador para jogar e gravar gameplay",
+            "device": "desktop",
+            "spec": "high",
+            "purpose": "person"
+        },
+        {
+            "text": "Quero um computador para trabalho e games",
+            "device": "desktop",
+            "spec": "mid",
+            "purpose": "pro"
+        },
+        {
+            "text": "Quero um PC para trabalho pesado",
+            "device": "desktop",
+            "spec": "high",
+            "purpose": "pro"
+        },
+        {
+            "text": "PC para jogar Red Dead Redemption",
+            "device": "desktop",
+            "spec": "high",
+            "purpose": "person"
+        },
+        {
+            "text": "PC para jogar PUBG",
+            "device": "desktop",
+            "spec": "high",
+            "purpose": "person"
+        },
+        {
+            "text": "Quero um computador para edição de vídeo",
+            "device": "desktop",
+            "spec": "high",
+            "purpose": "pro"
+        },
+        {
+            "text": "Quero um pc para edição de vídeo e imagens",
+            "device": "desktop",
+            "spec": "high",
+            "purpose": "pro"
+        },
+        {
+            "text": "Preciso de um pc para edição de vídeo",
+            "device": "desktop",
+            "spec": "high",
+            "purpose": "pro"
+        },
+        {
+            "text": "Pc para editores de vídeo",
+            "device": "desktop",
+            "spec": "high",
+            "purpose": "pro"
+        },
+        {
+            "text": "Pc para editar vídeo",
+            "device": "desktop",
+            "spec": "high",
+            "purpose": "pro"
+        },
+        {
+            "text": "Preciso de um computador para render",
+            "device": "desktop",
+            "spec": "high",
+            "purpose": "pro"
+        },
+        {
+            "text": "Computador para editar vídeo",
+            "device": "desktop",
+            "spec": "high",
+            "purpose": "pro"
+        },
+        {
+            "text": "PC para fazer edição de vídeo",
+            "device": "desktop",
+            "spec": "high",
+            "purpose": "pro"
+        },
+        {
+            "text": "PC para editar vídeo",
+            "device": "desktop",
+            "spec": "high",
+            "purpose": "pro"
+        },
+        {
+            "text": "Computador para adobe",
+            "device": "desktop",
+            "spec": "mid",
+            "purpose": "pro"
+        },
+        {
+            "text": "PC para suíte adobe",
+            "device": "desktop",
+            "spec": "mid",
+            "purpose": "pro"
+        },
+        {
+            "text": "Computador para premiere",
+            "device": "desktop",
+            "spec": "high",
+            "purpose": "pro"
+        },
+        {
+            "text": "Computador para after effects",
+            "device": "desktop",
+            "spec": "high",
+            "purpose": "pro"
+        },
+        {
+            "text": "PC para trabalhar com CAD",
+            "device": "desktop",
+            "spec": "mid",
+            "purpose": "pro"
+        },
+        {
+            "text": "PC para trabalhar com cinema",
+            "device": "desktop",
+            "spec": "high",
+            "purpose": "pro"
+        },
+        {
+            "text": "Computador para processamento de vídeo",
+            "device": "desktop",
+            "spec": "high",
+            "purpose": "pro"
+        },
+        {
+            "text": "Computador para renderização 3D",
+            "device": "desktop",
+            "spec": "high",
+            "purpose": "pro"
+        },
+        {
+            "text": "PC para modelagem 3D",
+            "device": "desktop",
+            "spec": "high",
+            "purpose": "pro"
+        },
+        {
+            "text": "PC para edição de vídeo, sem ser Mac",
+            "device": "desktop",
+            "spec": "high",
+            "purpose": "pro"
+        },
+        {
+            "text": "PC para edição de vídeo com Windows",
+            "device": "desktop",
+            "spec": "high",
+            "purpose": "pro"
+        },
+        {
+            "text": "PC para uso profissional",
+            "device": "desktop",
+            "spec": "low",
+            "purpose": "pro"
+        },
+        {
+            "text": "PC para aplicações profissionais",
+            "device": "desktop",
+            "spec": "low",
+            "purpose": "pro"
+        },
+        {
+            "text": "PC para jogar em Full HD",
+            "device": "desktop",
+            "spec": "mid",
+            "purpose": "person"
+        },
+        {
+            "text": "PC para jogar em 1080p",
+            "device": "desktop",
+            "spec": "mid",
+            "purpose": "person"
+        },
+        {
+            "text": "Computador para trabalhar e jogar em 1080p",
+            "device": "desktop",
+            "spec": "mid",
+            "purpose": "pro"
+        },
+        {
+            "text": "Computador até 6000",
+            "device": "desktop",
+            "spec": "high",
+            "purpose": "person"
+        },
+        {
+            "text": "Pc para edição",
+            "device": "desktop",
+            "spec": "high",
+            "purpose": "pro"
+        },
+        {
+            "text": "Pc para jogar Red Dead Redemption",
+            "device": "desktop",
+            "spec": "high",
+            "purpose": "person"
+        },
+        {
+            "text": "Pc para jogar Battle Field",
+            "device": "desktop",
+            "spec": "high",
+            "purpose": "person"
+        },
+        {
+            "text": "Pc que rode Battle Field V",
+            "device": "desktop",
+            "spec": "high",
+            "purpose": "person"
+        },
+        {
+            "text": "Computador que rode Battle Field",
+            "device": "desktop",
+            "spec": "high",
+            "purpose": "person"
+        },
+        {
+            "text": "Computador para render 3D",
+            "device": "desktop",
+            "spec": "high",
+            "purpose": "pro"
+        },
+        {
+            "text": "PC para modelagem e render 3D",
+            "device": "desktop",
+            "spec": "high",
+            "purpose": "pro"
+        },
+        {
+            "text": "Pc para editar vídeos e imagens",
+            "device": "desktop",
+            "spec": "high",
+            "purpose": "pro"
+        },
+        {
+            "text": "Pc para modelagem",
+            "device": "desktop",
+            "spec": "high",
+            "purpose": "pro"
+        },
+        {
+            "text": "Pc para edição de vídeo",
+            "device": "desktop",
+            "spec": "high",
+            "purpose": "pro"
+        },
+        {
+            "text": "Computador para edição de vídeo",
+            "device": "desktop",
+            "spec": "high",
+            "purpose": "pro"
+        },
+        {
+            "text": "Pc para render",
+            "device": "desktop",
+            "spec": "high",
+            "purpose": "pro"
+        },
+        {
+            "text": "PC para rodar Red Dead Redemption",
+            "device": "desktop",
+            "spec": "high",
+            "purpose": "person"
+        },
+        {
+            "text": "Computador para modelagem 3D com cinema 4D",
+            "device": "desktop",
+            "spec": "high",
+            "purpose": "pro"
+        },
+        {
+            "text": "Pc para editar video",
+            "device": "desktop",
+            "spec": "high",
+            "purpose": "pro"
+        },
+        {
+            "text": "Pc para computação gráfica",
+            "device": "desktop",
+            "spec": "high",
+            "purpose": "pro"
+        },
+        {
+            "text": "PC para jogar em 4K",
+            "device": "desktop",
+            "spec": "high",
+            "purpose": "person"
+        },
+        {
+            "text": "Procuro um computador para rodar todos jogos atuais",
+            "device": "desktop",
+            "spec": "high",
+            "purpose": "person"
+        },
+        {
+            "text": "pc gamer aaa",
+            "device": "desktop",
+            "spec": "high",
+            "purpose": "person"
+        },
+        {
+            "text": "Preciso de um pc para modelagem 3D e design de games",
+            "device": "desktop",
+            "spec": "high",
+            "purpose": "pro"
+        },
+        {
+            "text": "Computador para modelagem",
+            "device": "desktop",
+            "spec": "high",
+            "purpose": "pro"
+        },
+        {
+            "text": "Preciso de um pc para rodar maquinas virtuais",
+            "device": "desktop",
+            "spec": "high",
+            "purpose": "pro"
+        },
+        {
+            "text": "PC para ediçao de vídeo",
+            "device": "desktop",
+            "spec": "high",
+            "purpose": "pro"
+        },
+        {
+            "text": "Pc para modelagem 3D",
+            "device": "desktop",
+            "spec": "high",
+            "purpose": "pro"
+        },
+        {
+            "text": "PC para ediçao de vídeo",
+            "device": "desktop",
+            "spec": "high",
+            "purpose": "pro"
+        },
+        {
+            "text": "Pc para edição de vídeo ",
+            "device": "desktop",
+            "spec": "high",
+            "purpose": "pro"
+        },
+        {
+            "text": "PC para edicao de video",
+            "device": "desktop",
+            "spec": "high",
+            "purpose": "pro"
+        },
+        {
+            "text": "PC para modelagem",
+            "device": "desktop",
+            "spec": "high",
+            "purpose": "pro"
+        },
+        {
+            "text": "Pc para edição",
+            "device": "desktop",
+            "spec": "high",
+            "purpose": "pro"
+        },
+        {
+            "text": "Pc para edição de vídeo",
+            "device": "desktop",
+            "spec": "high",
+            "purpose": "pro"
+        },
+        {
+            "text": "PC parts render 3D",
+            "device": "desktop",
+            "spec": "high",
+            "purpose": "pro"
+        },
+        {
+            "text": "Pc para render 3D",
+            "device": "desktop",
+            "spec": "high",
+            "purpose": "pro"
+        },
+        {
+            "text": "Pc para edição de vídeo e streaming",
+            "device": "desktop",
+            "spec": "high",
+            "purpose": "pro"
+        },
+        {
+            "text": "Quero um pc para edição",
+            "device": "desktop",
+            "spec": "high",
+            "purpose": "pro"
+        },
+        {
+            "text": "Quero um pc para edição de vídeo",
+            "device": "desktop",
+            "spec": "high",
+            "purpose": "pro"
+        },
+        {
+            "text": "Quero um PC para trabalho e games",
+            "device": "desktop",
+            "spec": "mid",
+            "purpose": "pro"
+        },
+        {
+            "text": "Maquina para lives",
+            "device": "desktop",
+            "spec": "high",
+            "purpose": "pro"
+        },
+        {
+            "text": "Maquina para streaming",
+            "device": "desktop",
+            "spec": "high",
+            "purpose": "pro"
+        },
+        {
+            "text": "PC para streaming de vídeo",
+            "device": "desktop",
+            "spec": "high",
+            "purpose": "pro"
+        },
+        {
+            "text": "Maquina para jogar com raytracing",
+            "device": "desktop",
+            "spec": "high",
+            "purpose": "pro"
+        },
+        {
+            "text": "Maquina para rodar jogos pesados",
+            "device": "desktop",
+            "spec": "high",
+            "purpose": "person"
+        },
+        {
+            "text": "Computador para jogos pesados atuais",
+            "device": "desktop",
+            "spec": "high",
+            "purpose": "person"
+        },
+        {
+            "text": "Computador que rode liso games mais pesados",
+            "device": "desktop",
+            "spec": "high",
+            "purpose": "person"
+        },
+        {
+            "text": "Computador que rode qualquer game",
+            "device": "desktop",
+            "spec": "high",
+            "purpose": "person"
+        },
+        {
+            "text": "PC para rodar jogos pesados",
+            "device": "desktop",
+            "spec": "high",
+            "purpose": "person"
+        },
+        {
+            "text": "Quero um pc para rodar jogos pesados",
+            "device": "desktop",
+            "spec": "high",
+            "purpose": "person"
+        },
+        {
+            "text": "Computador para rodar jogos pesados",
+            "device": "desktop",
+            "spec": "high",
+            "purpose": "person"
+        },
+        {
+            "text": "Computador para live de gameplay",
+            "device": "desktop",
+            "spec": "high",
+            "purpose": "pro"
+        },
+        {
+            "text": "PC para gameplay",
+            "device": "desktop",
+            "spec": "high",
+            "purpose": "pro"
+        },
+        {
+            "text": "PC para fazer lives",
+            "device": "desktop",
+            "spec": "high",
+            "purpose": "pro"
+        },
+        {
+            "text": "Computador para streaming de games",
+            "device": "desktop",
+            "spec": "high",
+            "purpose": "pro"
+        },
+        {
+            "text": "Computador para streaming de jogos competitivos",
+            "device": "desktop",
+            "spec": "high",
+            "purpose": "pro"
+        },
+        {
+            "text": "PC para lives de jogos competitivos",
+            "device": "desktop",
+            "spec": "high",
+            "purpose": "pro"
+        },
+        {
+            "text": "Computador para games e streaming",
+            "device": "desktop",
+            "spec": "high",
+            "purpose": "pro"
+        },
+        {
+            "text": "Computador para games e lives",
+            "device": "desktop",
+            "spec": "high",
+            "purpose": "pro"
+        },
+        {
+            "text": "PC para games e lives",
+            "device": "desktop",
+            "spec": "high",
+            "purpose": "pro"
+        },
+        {
+            "text": "PC para jogos pesados",
+            "device": "desktop",
+            "spec": "high",
+            "purpose": "person"
+        },
+        {
+            "text": "Computador para jogos pesados",
+            "device": "desktop",
+            "spec": "high",
+            "purpose": "person"
+        },
+        {
+            "text": "Maquina para uso profissional e games",
+            "device": "desktop",
+            "spec": "mid",
+            "purpose": "pro"
+        },
+        {
+            "text": "PC para uso profissional e jogos",
+            "device": "desktop",
+            "spec": "mid",
+            "purpose": "pro"
+        },
+        {
+            "text": "Computador para Ray Tracing",
+            "device": "desktop",
+            "spec": "high",
+            "purpose": "pro"
+        },
+        {
+            "text": "PC para jogar com Ray Tracing",
+            "device": "desktop",
+            "spec": "high",
+            "purpose": "pro"
+        },
+        {
+            "text": "PC para jogar em 4k",
+            "device": "desktop",
+            "spec": "high",
+            "purpose": "person"
+        },
+        {
+            "text": "Computador para trabalho pesado",
+            "device": "desktop",
+            "spec": "high",
+            "purpose": "pro"
+        },
+        {
+            "text": "Computador para processamento pesado",
+            "device": "desktop",
+            "spec": "high",
+            "purpose": "pro"
+        },
+        {
+            "text": "PC para jogar e fazer lives",
+            "device": "desktop",
+            "spec": "high",
+            "purpose": "pro"
+        },
+        {
+            "text": "Preciso de um PC para jogar e fazer lives",
+            "device": "desktop",
+            "spec": "high",
+            "purpose": "pro"
+        },
+        {
+            "text": "Quero um PC para jogar e fazer lives",
+            "device": "desktop",
+            "spec": "high",
+            "purpose": "pro"
+        },
+        {
+            "text": "QUero computador para jogar e fazer lives",
+            "device": "desktop",
+            "spec": "high",
+            "purpose": "pro"
+        },
+        {
+            "text": "PC para games pesados",
+            "device": "desktop",
+            "spec": "high",
+            "purpose": "person"
+        },
+        {
+            "text": "Computador para programas pesados",
+            "device": "desktop",
+            "spec": "high",
+            "purpose": "person"
+        },
+        {
+            "text": "Computador para trabalhar e jogar em 4K",
+            "device": "desktop",
+            "spec": "high",
+            "purpose": "pro"
+        },
+        {
+            "text": "Computador até 9000",
+            "device": "desktop",
+            "spec": "high",
+            "purpose": "pro"
+        },
+        {
+            "text": "Preciso de um computador para jogar e fazer lives",
+            "device": "desktop",
+            "spec": "high",
+            "purpose": "pro"
+        },
+        {
+            "text": "Quero um pc para jogos pesados",
+            "device": "desktop",
+            "spec": "high",
+            "purpose": "person"
+        },
+        {
+            "text": "Computador que rode jogos pesados",
+            "device": "desktop",
+            "spec": "high",
+            "purpose": "person"
+        },
+        {
+            "text": "Maquina para rodar games pesados",
+            "device": "desktop",
+            "spec": "high",
+            "purpose": "person"
+        },
+        {
+            "text": "PC para rodar games pesados",
+            "device": "desktop",
+            "spec": "high",
+            "purpose": "person"
+        },
+        {
+            "text": "Quero um desktop para rodar games pesados",
+            "device": "desktop",
+            "spec": "high",
+            "purpose": "person"
+        },
+        {
+            "text": "PC para jogar alguns jogos",
+            "device": "desktop",
+            "spec": "mid",
+            "purpose": "person"
+        },
+        {
+            "text": "PC para jogar the sims",
+            "device": "desktop",
+            "spec": "mid",
+            "purpose": "person"
+        },
+        {
+            "text": "PC para jogar the sims 3",
+            "device": "desktop",
+            "spec": "mid",
+            "purpose": "person"
+        },
+        {
+            "text": "PC para jogar barato",
+            "device": "desktop",
+            "spec": "mid",
+            "purpose": "person"
+        },
+        {
+            "text": "PC para jogar free fire barato",
+            "device": "desktop",
+            "spec": "mid",
+            "purpose": "person"
+        },
+        {
+            "text": "PC para jogar i3",
+            "device": "desktop",
+            "spec": "mid",
+            "purpose": "person"
+        },
+        {
+            "text": "PC para jogar lol",
+            "device": "desktop",
+            "spec": "mid",
+            "purpose": "person"
+        },
+        {
+            "text": "PC para jogar lol 2021",
+            "device": "desktop",
+            "spec": "mid",
+            "purpose": "person"
+        },
+        {
+            "text": "PC para jogar lol barato 2021",
+            "device": "desktop",
+            "spec": "mid",
+            "purpose": "person"
+        },
+        {
+            "text": "PC para jogar jogos leves",
+            "device": "desktop",
+            "spec": "mid",
+            "purpose": "person"
+        },
+        {
+            "text": "PC para jogar alguns jogos",
+            "device": "desktop",
+            "spec": "mid",
+            "purpose": "person"
+        },
+        {
+            "text": "PC para jogar the sims",
+            "device": "desktop",
+            "spec": "mid",
+            "purpose": "person"
+        },
+        {
+            "text": "PC para jogar the sims 3",
+            "device": "desktop",
+            "spec": "mid",
+            "purpose": "person"
+        },
+        {
+            "text": "PC para jogar the sims 3",
+            "device": "desktop",
+            "spec": "mid",
+            "purpose": "person"
+        },
+        {
+            "text": "PC para jogar league of legends",
+            "device": "desktop",
+            "spec": "mid",
+            "purpose": "person"
+        },
+        {
+            "text": "Qual melhor computador para jogar lol",
+            "device": "desktop",
+            "spec": "mid",
+            "purpose": "person"
+        },
+        {
+            "text": "Pc para jogar jogos leves",
+            "device": "desktop",
+            "spec": "mid",
+            "purpose": "person"
+        },
+        {
+            "text": "Pc para jogar minecraft",
+            "device": "desktop",
+            "spec": "low",
+            "purpose": "person"
+        },
+        {
+            "text": "Qual o pc para jogar minecraft",
+            "device": "desktop",
+            "spec": "low",
+            "purpose": "person"
+        },
+        {
+            "text": "Qual pc para jogar roblox",
+            "device": "desktop",
+            "spec": "low",
+            "purpose": "person"
+        },
+        {
+            "text": "Pc para jogar roblox",
+            "device": "desktop",
+            "spec": "low",
+            "purpose": "person"
+        },
+        {
+            "text": "Pc para jogar roblox barato",
+            "device": "desktop",
+            "spec": "low",
+            "purpose": "person"
+        },
+        {
+            "text": "Pc de jogar minecraft",
+            "device": "desktop",
+            "spec": "low",
+            "purpose": "person"
+        },
+        {
+            "text": "Melhor pc para jogar the sims 4",
+            "device": "desktop",
+            "spec": "mid",
+            "purpose": "person"
+        },
+        {
+            "text": "Melhor pc para jogar free fire",
+            "device": "desktop",
+            "spec": "mid",
+            "purpose": "person"
+        },
+        {
+            "text": "Pc para jogar poker",
+            "device": "desktop",
+            "spec": "low",
+            "purpose": "person"
+        },
+        {
+            "text": "Pcs para jogar poker",
+            "device": "desktop",
+            "spec": "low",
+            "purpose": "person"
+        },
+        {
+            "text": "Pc para jogar tibia",
+            "device": "desktop",
+            "spec": "low",
+            "purpose": "person"
+        },
+        {
+            "text": "Pc que dá para jogar free fire",
+            "device": "desktop",
+            "spec": "mid",
+            "purpose": "person"
+        },
+        {
+            "text": "Pc para jogar football manager",
+            "device": "desktop",
+            "spec": "mid",
+            "purpose": "person"
+        },
+        {
+            "text": "Maquina para jogar point blank",
+            "device": "desktop",
+            "spec": "mid",
+            "purpose": "person"
+        },
+        {
+            "text": "O melhor computador para jogar euro truck simulator 2",
+            "device": "desktop",
+            "spec": "mid",
+            "purpose": "person"
+        },
+        {
+            "text": "Pc para jogar cities skylines",
+            "device": "desktop",
+            "spec": "mid",
+            "purpose": "person"
+        },
+        {
+            "text": "Pc para jogar euro truck simulator 2",
+            "device": "desktop",
+            "spec": "mid",
+            "purpose": "person"
+        },
+        {
+            "text": "Maquina para jogar grand chase",
+            "device": "desktop",
+            "spec": "mid",
+            "purpose": "person"
+        },
+        {
+            "text": "Pc para jogar lol barato",
+            "device": "desktop",
+            "spec": "mid",
+            "purpose": "person"
+        },
+        {
+            "text": "Pc para jogar lol barato 2021",
+            "device": "desktop",
+            "spec": "mid",
+            "purpose": "person"
+        },
+        {
+            "text": "Pc para jogar fortnite barato",
+            "device": "desktop",
+            "spec": "mid",
+            "purpose": "person"
+        },
+        {
+            "text": "Pc para jogar pubg mobile",
+            "device": "desktop",
+            "spec": "mid",
+            "purpose": "person"
+        },
+        {
+            "text": "qual melhor pc para jogar the sims 4",
+            "device": "desktop",
+            "spec": "mid",
+            "purpose": "person"
+        },
+        {
+            "text": "Pc para jogar the sims 4 2021",
+            "device": "desktop",
+            "spec": "mid",
+            "purpose": "person"
+        },
+        {
+            "text": "Pc para jogar the sims 4 2019",
+            "device": "desktop",
+            "spec": "mid",
+            "purpose": "person"
+        },
+        {
+            "text": "Pc para jogar the sims 4",
+            "device": "desktop",
+            "spec": "mid",
+            "purpose": "person"
+        },
+        {
+            "text": "Pc para jogar the sims 4 2021",
+            "device": "desktop",
+            "spec": "mid",
+            "purpose": "person"
+        },
+        {
+            "text": "Pc para jogar the sims 4 2020",
+            "device": "desktop",
+            "spec": "mid",
+            "purpose": "person"
+        },
+        {
+            "text": "Pc para jogar the sims 4 2019",
+            "device": "desktop",
+            "spec": "mid",
+            "purpose": "person"
+        },
+        {
+            "text": "Pc que da para jogar the sims 4",
+            "device": "desktop",
+            "spec": "mid",
+            "purpose": "person"
+        },
+        {
+            "text": "Pc para jogar the sims 4",
+            "device": "desktop",
+            "spec": "mid",
+            "purpose": "person"
+        },
+        {
+            "text": "Pc para jogar the sims 4 2020",
+            "device": "desktop",
+            "spec": "mid",
+            "purpose": "person"
+        },
+        {
+            "text": "Pc para jogar the sims 4",
+            "device": "desktop",
+            "spec": "mid",
+            "purpose": "person"
+        },
+        {
+            "text": "Pc para jogar the sims 4 2020",
+            "device": "desktop",
+            "spec": "mid",
+            "purpose": "person"
+        },
+        {
+            "text": "Pc para jogar the sims 4 2021",
+            "device": "desktop",
+            "spec": "mid",
+            "purpose": "person"
+        },
+        {
+            "text": "Pc para jogar the sims 4 2019",
+            "device": "desktop",
+            "spec": "mid",
+            "purpose": "person"
+        },
+        {
+            "text": "Pc ideal para jogar the sims 4",
+            "device": "desktop",
+            "spec": "mid",
+            "purpose": "person"
+        },
+        {
+            "text": "Pc para jogar cs go",
+            "device": "desktop",
+            "spec": "mid",
+            "purpose": "person"
+        },
+        {
+            "text": "Pc para jogar cs go",
+            "device": "desktop",
+            "spec": "mid",
+            "purpose": "person"
+        },
+        {
+            "text": "Maquina para jogar cs go",
+            "device": "desktop",
+            "spec": "mid",
+            "purpose": "person"
+        },
+        {
+            "text": "Maquina para jogar",
+            "device": "desktop",
+            "spec": "mid",
+            "purpose": "person"
+        },
+        {
+            "text": "Pc ou desktop para jogar",
+            "device": "desktop",
+            "spec": "mid",
+            "purpose": "person"
+        },
+        {
+            "text": "Pc quero jogar",
+            "device": "desktop",
+            "spec": "mid",
+            "purpose": "person"
+        },
+        {
+            "text": "Pc que de para jogar",
+            "device": "desktop",
+            "spec": "mid",
+            "purpose": "person"
+        },
+        {
+            "text": "Pc recomendado para jogar",
+            "device": "desktop",
+            "spec": "mid",
+            "purpose": "person"
+        },
+        {
+            "text": "Pc para jogar world of warcraft",
+            "device": "desktop",
+            "spec": "mid",
+            "purpose": "person"
+        },
+        {
+            "text": "Pc para jogar wow",
+            "device": "desktop",
+            "spec": "mid",
+            "purpose": "person"
+        },
+        {
+            "text": "Pc para jogar smite",
+            "device": "desktop",
+            "spec": "mid",
+            "purpose": "person"
+        },
+        {
+            "text": "Pc para jogar planet coaster",
+            "device": "desktop",
+            "spec": "mid",
+            "purpose": "person"
+        },
+        {
+            "text": "Maquina para jogar valorant",
+            "device": "desktop",
+            "spec": "mid",
+            "purpose": "person"
+        },
+        {
+            "text": "Pc potente para jogos",
+            "device": "desktop",
+            "spec": "high",
+            "purpose": "person"
+        },
+        {
+            "text": "qual melhor pc para jogar",
+            "device": "desktop",
+            "spec": "mid",
+            "purpose": "person"
+        },
+        {
+            "text": "melhor pc para jogar",
+            "device": "desktop",
+            "spec": "high",
+            "purpose": "person"
+        },
+        {
+            "text": "Pc para jogar cyberpunk 2077",
+            "device": "desktop",
+            "spec": "high",
+            "purpose": "person"
+        },
+        {
+            "text": "Pc para jogar apex",
+            "device": "desktop",
+            "spec": "high",
+            "purpose": "person"
+        },
+        {
+            "text": "Pc para jogar dead by daylight",
+            "device": "desktop",
+            "spec": "high",
+            "purpose": "person"
+        },
+        {
+            "text": "Pc para jogar genshin impact",
+            "device": "desktop",
+            "spec": "mid",
+            "purpose": "person"
+        },
+        {
+            "text": "Pc para jogar genshin impact",
+            "device": "desktop",
+            "spec": "mid",
+            "purpose": "person"
+        },
+        {
+            "text": "Pc para jogar the witcher 3",
+            "device": "desktop",
+            "spec": "high",
+            "purpose": "person"
+        },
+        {
+            "text": "Pc para jogar the witcher 3",
+            "device": "desktop",
+            "spec": "high",
+            "purpose": "person"
+        },
+        {
+            "text": "Pc para jogar overwatch",
+            "device": "desktop",
+            "spec": "high",
+            "purpose": "person"
+        },
+        {
+            "text": "Maquina para jogar warzone",
+            "device": "desktop",
+            "spec": "high",
+            "purpose": "person"
+        },
+        {
+            "text": "Maquina que rode warzone",
+            "device": "desktop",
+            "spec": "high",
+            "purpose": "person"
+        },
+        {
+            "text": "Maquina que rode COD warzone",
+            "device": "desktop",
+            "spec": "high",
+            "purpose": "person"
+        },
+        {
+            "text": "PC para jogar call of dutty warzone",
+            "device": "desktop",
+            "spec": "high",
+            "purpose": "person"
+        },
+        {
+            "text": "Maquina para jogar call of dutty warzone",
+            "device": "desktop",
+            "spec": "high",
+            "purpose": "person"
+        },
+        {
+            "text": "Maquina para jogar cod warzone",
+            "device": "desktop",
+            "spec": "high",
+            "purpose": "person"
+        },
+        {
+            "text": "Maquina para jogar rainbow six siege",
+            "device": "desktop",
+            "spec": "high",
+            "purpose": "person"
+        },
+        {
+            "text": "Maquina para jogar r6",
+            "device": "desktop",
+            "spec": "high",
+            "purpose": "person"
+        },
+        {
+            "text": "Maquina para jogar rainbow six siege",
+            "device": "desktop",
+            "spec": "high",
+            "purpose": "person"
+        },
+        {
+            "text": "Maquina bom para jogar gta v",
+            "device": "desktop",
+            "spec": "mid",
+            "purpose": "person"
+        },
+        {
+            "text": "Maquina para jogar pubg",
+            "device": "desktop",
+            "spec": "high",
+            "purpose": "person"
+        },
+        {
+            "text": "Maquina bom para jogar gta rp",
+            "device": "desktop",
+            "spec": "high",
+            "purpose": "person"
+        },
+        {
+            "text": "Maquina para jogar gta rp",
+            "device": "desktop",
+            "spec": "high",
+            "purpose": "person"
+        },
+        {
+            "text": "Maquina para jogar pes 2021",
+            "device": "desktop",
+            "spec": "high",
+            "purpose": "person"
+        },
+        {
+            "text": "Maquina para jogar pes 2020",
+            "device": "desktop",
+            "spec": "mid",
+            "purpose": "person"
+        },
+        {
+            "text": "Trabalhar e jogar",
+            "device": "desktop",
+            "spec": "mid",
+            "purpose": "pro"
+        },
+        {
+            "text": "Trabalhar com suíte adobe",
+            "device": "desktop",
+            "spec": "mid",
+            "purpose": "pro"
+        },
+        {
+            "text": "Trabalho e jogos",
+            "device": "desktop",
+            "spec": "mid",
+            "purpose": "pro"
+        },
+        {
+            "text": "Ciência de dados",
+            "device": "desktop",
+            "spec": "mid",
+            "purpose": "pro"
+        },
+        {
+            "text": "Desenvolver aplicativos e jogar",
+            "device": "desktop",
+            "spec": "mid",
+            "purpose": "pro"
+        },
+        {
+            "text": "Jogar e trabalhar",
+            "device": "desktop",
+            "spec": "mid",
+            "purpose": "pro"
+        },
+        {
+            "text": "Trabalho e Jogo",
+            "device": "desktop",
+            "spec": "mid",
+            "purpose": "pro"
+        },
+        {
+            "text": "Estudos, trabalho e jogar ",
+            "device": "desktop",
+            "spec": "mid",
+            "purpose": "pro"
+        },
+        {
+            "text": "Programar e jogar ",
+            "device": "desktop",
+            "spec": "mid",
+            "purpose": "pro"
+        },
+        {
+            "text": "Programas como Photoshop e ilustrator",
+            "device": "desktop",
+            "spec": "mid",
+            "purpose": "pro"
+        },
+        {
+            "text": "Artes digitais em programas como illustrator e Photoshop",
+            "device": "desktop",
+            "spec": "mid",
+            "purpose": "pro"
+        },
+        {
+            "text": "Programar e desenvolver sites e aplicativos",
+            "device": "desktop",
+            "spec": "mid",
+            "purpose": "pro"
+        },
+        {
+            "text": "Para estudos, assistir conteúdo e Photoshop ",
+            "device": "desktop",
+            "spec": "mid",
+            "purpose": "pro"
+        },
+        {
+            "text": "Programação ",
+            "device": "desktop",
+            "spec": "mid",
+            "purpose": "pro"
+        },
+        {
+            "text": "DESIGNER",
+            "device": "desktop",
+            "spec": "mid",
+            "purpose": "pro"
+        },
+        {
+            "text": "Jogos e trabalho de design.",
+            "device": "desktop",
+            "spec": "mid",
+            "purpose": "pro"
+        },
+        {
+            "text": "Programar",
+            "device": "desktop",
+            "spec": "mid",
+            "purpose": "pro"
+        },
+        {
+            "text": "Para programar no Android Studio",
+            "device": "desktop",
+            "spec": "mid",
+            "purpose": "pro"
+        },
+        {
+            "text": "Para restaurante",
+            "device": "desktop",
+            "spec": "low",
+            "purpose": "pro"
+        },
+        {
+            "text": "CSGO, F1 2020, Developer, ",
+            "device": "desktop",
+            "spec": "mid",
+            "purpose": "person"
+        },
+        {
+            "text": "Desenvolvimento de software",
+            "device": "desktop",
+            "spec": "mid",
+            "purpose": "pro"
+        },
+        {
+            "text": "Desenvolvimento de Games",
+            "device": "desktop",
+            "spec": "high",
+            "purpose": "pro"
+        },
+        {
+            "text": "Desenvolvimento de jogos",
+            "device": "desktop",
+            "spec": "high",
+            "purpose": "pro"
+        },
+        {
+            "text": "Trabalho, videos, excel",
+            "device": "desktop",
+            "spec": "mid",
+            "purpose": "pro"
+        },
+        {
+            "text": "Games e estudos",
+            "device": "desktop",
+            "spec": "mid",
+            "purpose": "person"
+        },
+        {
+            "text": "Uso leve",
+            "device": "desktop",
+            "spec": "low",
+            "purpose": "person"
+        },
+        {
+            "text": "Uso cotidiano",
+            "device": "desktop",
+            "spec": "low",
+            "purpose": "person"
+        },
+        {
+            "text": "Uso doméstico simples",
+            "device": "desktop",
+            "spec": "low",
+            "purpose": "person"
+        },
+        {
+            "text": "Jogar mario bross e investir",
+            "device": "desktop",
+            "spec": "mid",
+            "purpose": "pro"
+        },
+        {
+            "text": "PC para Day Trade",
+            "device": "desktop",
+            "spec": "mid",
+            "purpose": "pro"
+        },
+        {
+            "text": "PC para trabalhar com Day Trade",
+            "device": "desktop",
+            "spec": "mid",
+            "purpose": "pro"
+        },
+        {
+            "text": "Jogar games antigos e trabalhar",
+            "device": "desktop",
+            "spec": "low",
+            "purpose": "pro"
+        },
+        {
+            "text": "Quero um pc para jogar games antigos e trabalhar",
+            "device": "desktop",
+            "spec": "low",
+            "purpose": "pro"
+        },
+        {
+            "text": "Preciso de um pc para trabalhar e que rode uns games antigos",
+            "device": "desktop",
+            "spec": "low",
+            "purpose": "pro"
+        },
+        {
+            "text": "Jogar lol e trabalhar",
+            "device": "desktop",
+            "spec": "mid",
+            "purpose": "pro"
+        },
+        {
+            "text": "Jogar dota e estudar",
+            "device": "desktop",
+            "spec": "mid",
+            "purpose": "pro"
+        },
+        {
+            "text": "Jogar CS e LOL",
+            "device": "desktop",
+            "spec": "mid",
+            "purpose": "person"
+        },
+        {
+            "text": "Artes digitais em programas como Photoshop e ilustrator",
+            "device": "desktop",
+            "spec": "mid",
+            "purpose": "pro"
+        },
+        {
+            "text": "Máquina para produtividade",
+            "device": "desktop",
+            "spec": "low",
+            "purpose": "pro"
+        },
+        {
+            "text": "League of Legends",
+            "device": "desktop",
+            "spec": "mid",
+            "purpose": "person"
+        },
+        {
+            "text": "League of MTG Arena",
+            "device": "desktop",
+            "spec": "mid",
+            "purpose": "person"
+        },
+        {
+            "text": "Estudo e trabalho",
+            "device": "desktop",
+            "spec": "low",
+            "purpose": "pro"
+        },
+        {
+            "text": "Programação",
+            "device": "desktop",
+            "spec": "mid",
+            "purpose": "pro"
+        },
+        {
+            "text": "Desenvolver",
+            "device": "desktop",
+            "spec": "mid",
+            "purpose": "pro"
+        },
+        {
+            "text": "Jogos leves",
+            "device": "desktop",
+            "spec": "mid",
+            "purpose": "person"
+        },
+        {
+            "text": "Estudo, pesquisa, filmes",
+            "device": "desktop",
+            "spec": "low",
+            "purpose": "person"
+        },
+        {
+            "text": "jogar, programar e estudar",
+            "device": "desktop",
+            "spec": "mid",
+            "purpose": "pro"
+        },
+        {
+            "text": "Design",
+            "device": "desktop",
+            "spec": "mid",
+            "purpose": "pro"
+        },
+        {
+            "text": "Jogar games competitivos",
+            "device": "desktop",
+            "spec": "high",
+            "purpose": "person"
+        },
+        {
+            "text": "Para jogar vídeo game",
+            "device": "desktop",
+            "spec": "mid",
+            "purpose": "person"
+        },
+        {
+            "text": "Desenvolver Softwares",
+            "device": "desktop",
+            "spec": "mid",
+            "purpose": "pro"
+        },
+        {
+            "text": "Quero uma maquina para trabalho e games",
+            "device": "desktop",
+            "spec": "mid",
+            "purpose": "pro"
+        },
+        {
+            "text": "melhores Maquinas para jogar valorant",
+            "device": "desktop",
+            "spec": "high",
+            "purpose": "person"
+        },
+        {
+            "text": "Desktop para jogo",
+            "device": "desktop",
+            "spec": "mid",
+            "purpose": "person"
+        },
+        {
+            "text": "Desktop ideal para jogar",
+            "device": "desktop",
+            "spec": "mid",
+            "purpose": "person"
+        },
+        {
+            "text": "Desktop para poder jogar jogos",
+            "device": "desktop",
+            "spec": "mid",
+            "purpose": "person"
+        },
+        {
+            "text": "qual config para jogar",
+            "device": "desktop",
+            "spec": "mid",
+            "purpose": "person"
+        },
+        {
+            "text": "Desktop para jogo",
+            "device": "desktop",
+            "spec": "mid",
+            "purpose": "person"
+        },
+        {
+            "text": "Desktop jogar jogos",
+            "device": "desktop",
+            "spec": "mid",
+            "purpose": "person"
+        },
+        {
+            "text": "Desktop para jogar cod",
+            "device": "desktop",
+            "spec": "high",
+            "purpose": "person"
+        },
+        {
+            "text": "Desktop para jogar counter strike",
+            "device": "desktop",
+            "spec": "mid",
+            "purpose": "person"
+        },
+        {
+            "text": "Desktop para jogar cs go",
+            "device": "desktop",
+            "spec": "mid",
+            "purpose": "person"
+        },
+        {
+            "text": "Desktop para jogar cs go a 144 fps",
+            "device": "desktop",
+            "spec": "high",
+            "purpose": "person"
+        },
+        {
+            "text": "Desktop para jogar online a 144 fps",
+            "device": "desktop",
+            "spec": "high",
+            "purpose": "person"
+        },
+        {
+            "text": "Desktop que segure 144 fps em jogos online",
+            "device": "desktop",
+            "spec": "high",
+            "purpose": "person"
+        },
+        {
+            "text": "Desktop para jogar cs go 2020",
+            "device": "desktop",
+            "spec": "mid",
+            "purpose": "person"
+        },
+        {
+            "text": "Desktop bom para jogar gta rp",
+            "device": "desktop",
+            "spec": "high",
+            "purpose": "person"
+        },
+        {
+            "text": "Jogar CS em 4K a 144fps",
+            "device": "desktop",
+            "spec": "high",
+            "purpose": "person"
+        },
+        {
+            "text": "Games e lives",
+            "device": "desktop",
+            "spec": "high",
+            "purpose": "person"
+        },
+        {
+            "text": "Máquina para games e lives",
+            "device": "desktop",
+            "spec": "high",
+            "purpose": "person"
+        },
+        {
+            "text": "Quero uma maquina para rodar jogos pesados",
+            "device": "desktop",
+            "spec": "high",
+            "purpose": "person"
+        },
+        {
+            "text": "Modelagem 3D",
+            "device": "desktop",
+            "spec": "high",
+            "purpose": "pro"
+        },
+        {
+            "text": "jogar red dead redemption 2",
+            "device": "desktop",
+            "spec": "high",
+            "purpose": "person"
+        },
+        {
+            "text": "Jogos atuais e desenvolvimento de aplicações em python",
+            "device": "desktop",
+            "spec": "high",
+            "purpose": "pro"
+        },
+        {
+            "text": "Jogar fps a altas taxas de quadros",
+            "device": "desktop",
+            "spec": "high",
+            "purpose": "person"
+        },
+        {
+            "text": "Jogar CS a 144fps",
+            "device": "desktop",
+            "spec": "high",
+            "purpose": "person"
+        },
+        {
+            "text": "Preciso de uma maquina para trabalho e games",
+            "device": "desktop",
+            "spec": "high",
+            "purpose": "person"
+        },
+        {
+            "text": "Trabalhar e jogar as vezes",
+            "device": "desktop",
+            "spec": "mid",
+            "purpose": "pro"
+        }
+    ]
+}

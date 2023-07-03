@@ -1,0 +1,53 @@
+{
+    "train": [
+        
+        {
+			"text": "I am looking for a laptop for light games",
+			"label": "nmedium"
+        },
+        {
+			"text": "I want a laptop to play and work",
+			"label": "nmedium"
+        },
+        {
+			"text": "i want a laptop to run only light games like League of Legends or MTG Arena and mainly for works with digital arts in programs like Corel, Figma, ilustrator or Photoshop",
+			"label": "nmedium"
+        },
+        {
+			"text": "laptop for lightweight games and programming",
+			"label": "nmedium"
+        },
+        {
+			"text": "laptop to play League of Legends",
+			"label": "nmedium"
+        },
+        {
+			"text": "I want a laptop to play Mobas and other light games",
+			"label": "nmedium"
+        },
+        {
+			"text": "I need a laptop to work with Design",
+			"label": "nmedium"
+        },
+        {
+			"text": "I need a quick laptop",
+			"label": "nmedium"
+        },
+        {
+			"text": "I want a laptop to program",
+			"label": "nmedium"
+        },
+        {
+			"text": "I am looking for a laptop for light games and mainly for work in programs like Corel, Figma, ilustrator or Photoshop.",
+			"label": "nmedium"
+        },
+        {
+			"text": "I am looking for a laptop for light games and mainly for work in programs like Corel, Figma, ilustrator or Photoshop.",
+			"label": "nmedium"
+        },
+        {
+			"text": "I am looking for for works with digital arts",
+			"label": "nmedium"
+        }
+    ]
+}
