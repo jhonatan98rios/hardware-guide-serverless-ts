@@ -1,4 +1,4 @@
-export const learn = [
+export const content = [
   {
     title: 'O que é um processador?',
     content: [{

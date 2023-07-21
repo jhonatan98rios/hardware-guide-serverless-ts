@@ -1,6 +1,8 @@
 import type { AWS } from '@serverless/typescript';
 
-import hello from '@functions/hello';
+import smart from '@functions/smart';
+import content from '@functions/content';
+import products from '@functions/products';
 
 const serverlessConfiguration: AWS = {
   service: 'hardware-guide-serverless-ts',
@@ -19,7 +21,7 @@ const serverlessConfiguration: AWS = {
     },
   },
   // import the function via paths
-  functions: { hello },
+  functions: { smart, content, products },
   package: { individually: true },
   custom: {
     esbuild: {

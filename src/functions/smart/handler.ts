@@ -5,7 +5,7 @@ import schema from './schema';
 
 import { HardwareController } from './src/controllers/Hardware.controller';
 
-const hello: ValidatedEventAPIGatewayProxyEvent<typeof schema> = async (event) => {
+const smart: ValidatedEventAPIGatewayProxyEvent<typeof schema> = async (event) => {
 
   const hardwareController = new HardwareController()
   const res = await hardwareController.getRecommendation(event.body.text)
@@ -13,4 +13,4 @@ const hello: ValidatedEventAPIGatewayProxyEvent<typeof schema> = async (event) =
   return formatJSONResponse(res);
 };
 
-export const main = middyfy(hello);
+export const main = middyfy(smart);
