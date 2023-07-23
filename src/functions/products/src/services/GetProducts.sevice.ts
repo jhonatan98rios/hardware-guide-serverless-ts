@@ -1,38 +1,12 @@
-import { products } from "../mockdata/products/products"
+import { options } from "../mockdata/products/products"
 
-
-export type Product = {
-    name: string
-    image: string
-    moba: string
-    cpu: string
-    storage: string
-    ram: string
-    gpu: string
-    price: string
-    screen: string
-    link: string
-}
-
-export type Products = {
-    notebook: {
-        low: Product[]
-        mid: Product[]
-        high: Product[]
-    }
-    desktop: {
-        low: Product[]
-        mid: Product[]
-        high: Product[]
-    }
-}
-
+export type Options = typeof options
 
 export class GetProductsSevice {   
 
     constructor() {}
 
-    async execute(): Promise<Products> {
-        return products as Products
+    async execute(): Promise<Options> {
+        return options
     }
 }

@@ -4,7 +4,6 @@ export const products = {
       {
         name: "Lenovo Ultrafino IdeaPad 1",
         image: "https://images.kabum.com.br/produtos/fotos/460938/notebook-lenovo-ultrafino-ideapad-1-ryzen-5-7520u-8gb-ram-ssd-256gb-amd-radeon-610m-integrado-15-6-hd-linux-cloud-grey-82x5s00100-6-linux-cloud-grey-82x5s00100_1686138932_gg.jpg",
-        moba: "",
         cpu: "Ryzen 5-7520U",
         storage: "128GB SSD",
         ram: "8GB",
@@ -16,7 +15,6 @@ export const products = {
       {
         name: "Samsung NP550XDA-KH2BR",
         image: "https://images.kabum.com.br/produtos/fotos/356530/notebook-samsung-intel-core-i5-1135g7-8gb-ram-ssd-256gb-15-6-full-hd-windows-11-home-cinza-np550xda-kh2br_1655749555_gg.jpg",
-        moba: "",
         cpu: "Intel Core i5-1135G7",
         storage: "256GB SSD",
         ram: "8GB",
@@ -28,7 +26,6 @@ export const products = {
       {
         name: "Vaio Fe15 I5-1135g7",
         image: "https://images.kabum.com.br/produtos/fotos/sync_mirakl/418518/Notebook-Vaio-Fe15-I5-1135g7-RAM-8GB-SSD-512GB-15-6-Polegadas-Full-HD-Windows-11-Home-Cinza-Escuro_1689890894_gg.jpg",
-        moba: "",
         cpu: "Intel Core I5-1135g7",
         storage: "512GB SSD",
         ram: "8GB",
@@ -40,7 +37,6 @@ export const products = {
       {
         name: "Lenovo Ultrafino Ideapad S145",
         image: "https://images.kabum.com.br/produtos/fotos/179446/notebook-lenovo-ultrafino-ideapad-s145-ryzen-5-3500u-8gb-256gb-ssd-m-2-nvm4e-15-6-dolby-audio-windows-10-home-prata-81v70008br_1628002673_gg.jpg",
-        moba: "",
         cpu: "Ryzen 5-3500U",
         storage: "256GB SSD M.2 NVM4e",
         ram: "8GB",
@@ -54,7 +50,6 @@ export const products = {
       {
         name: "Lenovo Ultrafino Ideapad S145",
         image: "https://images.kabum.com.br/produtos/fotos/179446/notebook-lenovo-ultrafino-ideapad-s145-ryzen-5-3500u-8gb-256gb-ssd-m-2-nvm4e-15-6-dolby-audio-windows-10-home-prata-81v70008br_1628002673_gg.jpg",
-        moba: "",
         cpu: "Ryzen 5-3500U",
         storage: "256GB SSD M.2 NVM4e",
         ram: "8GB",
@@ -66,7 +61,6 @@ export const products = {
       {
         name: "Lenovo IdeaPad 3i",
         image: "https://images.kabum.com.br/produtos/fotos/435937/notebook-lenovo-ideapad-3i-intel-core-i7-1165g7-8gb-ram-ssd-512gb-15-6-full-hd-iris-xe-graphics-windows-11-home-cinza-82md000rbr_1683908972_gg.jpg",
-        moba: "",
         cpu: "Intel Core i7-1165G7",
         storage: "512GB SSD",
         ram: " 8GB RAM",
@@ -78,7 +72,6 @@ export const products = {
       {
         name: "Notebook Gamer Lenovo Gaming 3i",
         image: "https://images.kabum.com.br/produtos/fotos/373931/notebook-gamer-lenovo-gaming-3-intel-core-i5-11300h-geforce-gtx1650-8gb-ram-ssd-512gb-15-6-full-hd-windows-11-preto-82mg0009br-_1662137578_gg.jpg",
-        moba: "",
         cpu: "Intel Core i5-11300H",
         storage: "512GB SSD",
         ram: " 8GB RAM",
@@ -90,7 +83,6 @@ export const products = {
       {
         name: "Notebook Gamer 2am E550",
         image: "https://images.kabum.com.br/produtos/fotos/sync_mirakl/347697/Notebook-Gamer-2am-E550-Core-I7-9700-16GB-RAM-Nvidia-Geforce-Gtx-1050-3GB-128GB-SSD-1TB-Tela-15-6-Polegadas-FullHD-Windows-10-Home-Preto_1667829505_gg.jpg",
-        moba: "",
         cpu: "Intel Core I7-9700",
         storage: "128GB SSD + 1TB HD",
         ram: "16GB RAM",
@@ -104,7 +96,6 @@ export const products = {
       {
         name: "Notebook Gamer Acer NITRO 5 AN515-58-54UH",
         image: "https://images.kabum.com.br/produtos/fotos/459635/notebook-gamer-acer-nitro-5-intel-core-i5-12450h-8gb-ram-geforce-rtx3050-512gb-ssd-15-6-full-hd-windows-11-home-preto-an515-58-54uh_1686951969_gg.jpg",
-        moba: "",
         cpu: "Intel Core i5-12450H",
         storage: "512GB SSD",
         ram: "8GB RAM",
@@ -116,7 +107,6 @@ export const products = {
       {
         name: "Notebook Gamer Lenovo Legion 5",
         image: "https://images.kabum.com.br/produtos/fotos/307100/notebook-gamer-lenovo-legion-5-ryzen-7-5800h-16gb-ram-nvidia-geforce-rtx-3050-512gb-ssd-15-6-full-hd-windows-11-preto-82qj0000br_1643724112_gg.jpg",
-        moba: "",
         cpu: "AMD Ryzen 7-5800H",
         storage: "512GB SSD",
         ram: "16GB RAM",
@@ -128,7 +118,6 @@ export const products = {
       {
         name: "Notebook Lenovo Ideapad Gaming 3 R7-5800h",
         image: "https://images.kabum.com.br/produtos/fotos/sync_mirakl/400726/Notebook-Lenovo-Ideapad-Gaming-3-R7-5800h-16GB-512GB-SSD-Pcie-Rtx-3060-6GB-15-6-FHD-Linux-82mjs00100_1668713308_gg.jpg",
-        moba: "",
         cpu: "Amd Ryzen 7 5800h",
         storage: "512GB SSD",
         ram: "8GB RAM",
@@ -140,7 +129,6 @@ export const products = {
       {
         name: "Notebook Gamer Predator Helios 300 Ph315-54-70lh I7",
         image: "https://images.kabum.com.br/produtos/fotos/sync_mirakl/320322/Notebook-Gamer-Predator-Helios-300-Ph315-54-70lh-I7-11-Windows-11-Home-16gb-512gb-Ssd-Rtx-3070-15-6_1677160117_gg.jpg",
-        moba: "",
         cpu: "Intel Core i7-11800H",
         storage: "512GB SSD",
         ram: "16GB RAM",
@@ -305,3 +293,31 @@ export const products = {
     ]
   }
 }
+
+
+export const options = [
+  {
+    name: 'Notebook Baixo Custo',
+    itens: products.notebook.low
+  },
+  {
+    name: 'Notebook Custo Benefício',
+    itens: products.notebook.mid
+  },
+  {
+    name: 'Notebook High-End',
+    itens: products.notebook.high
+  },
+  {
+    name: 'PC Baixo Custo',
+    itens: products.desktop.low
+  },
+  {
+    name: 'PC Custo Benefício',
+    itens: products.desktop.mid
+  },
+  {
+    name: 'PC High-End',
+    itens: products.desktop.high
+  }
+]
