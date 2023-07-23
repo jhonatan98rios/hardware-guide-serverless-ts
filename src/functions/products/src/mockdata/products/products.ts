@@ -10,7 +10,7 @@ export const products = {
         ram: "8GB",
         gpu: "AMD Radeon 610M",
         price: "2.499,99",
-        screen: "15 inch FHD LED Display (1920 x 1080), Antirreflexiva",
+        screen: "15 inch FHD, Antireflexo",
         link: "https://www.kabum.com.br/produto/460938/notebook-lenovo-ultrafino-ideapad-1-ryzen-5-7520u-8gb-ram-ssd-256gb-amd-radeon-610m-integrado-15-6-hd-linux-cloud-grey-82x5s00100?gclid=CjwKCAjwtuOlBhBREiwA7agf1nxDRCN6V17vHqlkZi9qT9KiC-Yn_y51TD0YQuqaIRRY-5UoTTia6RoCl8QQAvD_BwE"
       },
       {
@@ -202,7 +202,6 @@ export const products = {
         supply: '750w',
         link: "https://www.kabum.com.br/produto/368416/pc-gamer-facil-intel-core-i5-10400f-16gb-gtx-1660-super-6gb-ssd-240gb-windows-10-trial-fonte-750w"
       },
-      
     ],
     mid: [
       {
@@ -256,6 +255,18 @@ export const products = {
     ],
     high: [
       {
+        name: "Computador Gamer Neologic Dragon Diamond",
+        image: "https://images.kabum.com.br/produtos/fotos/sync_mirakl/159657/Computador-Gamer-Neologic-Dragon-Diamond-Intel-I5-10400F-16GB-SSD-240GB-RTX-3060-12GB-Windows-10-600W-NL82201-_1689275292_gg.jpg",
+        moba: "H410",
+        cpu: "Intel I5 10400F",
+        storage: "SSD 240GB",
+        ram: "16GB DDR4",
+        gpu: "GeForce RTX 3060 12GB",
+        price: "4.613,78",
+        supply: '600w',
+        link: "https://www.kabum.com.br/produto/159657/computador-gamer-neologic-dragon-diamond-intel-i5-10400f-16gb-ssd-240gb-rtx-3060-12gb-windows-10-600w-nl82201-"
+      },
+      {
         name: "PC Gamer Tech Power",
         image: "https://images.kabum.com.br/produtos/fotos/sync_mirakl/470230/PC-Gamer-Tech-Power-Ryzen-7-5700x-RAM-32GB-DDR4-RTX-3060-12GB-SSD-1TB-M2-Nvme-Windows-11-Pro_1689157690_gg.jpg",
         moba: "B450M Pro4",
@@ -280,7 +291,7 @@ export const products = {
         link: "https://www.kabum.com.br/produto/359704/pc-gamer-facil-intel-core-i9-10900f-16gb-ddr4-rtx-3060-12gb-gddr6-ssd-960gb-fonte-750w"
       },
       {
-        name: "Pc Gamer",
+        name: "Pc Gamer V150",
         image: "https://images.kabum.com.br/produtos/fotos/sync_mirakl/291612/Pc-Gamer-Amd-Ryzen-5-3600-Rtx-3070-8gb-Ram-16gb-Hd-1tb-Ssd-240gb_1678379316_gg.jpg",
         moba: "A320M",
         cpu: "Amd Ryzen 5 3600",
