@@ -13,6 +13,11 @@ export default {
             'application/json': schema,
           },
         },
+        cors: {
+          origin: 'https://hardware-guide-web.vercel.app',
+          headers: ['Content-Type'],
+          allowCredentials: false,
+        },
       },
     },
   ],
