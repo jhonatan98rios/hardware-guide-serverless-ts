@@ -219,7 +219,7 @@ export const products = {
       {
         name: "PC Gamer Concórdia",
         image: "https://images.kabum.com.br/produtos/fotos/417852/pc-gamer-concordia-intel-core-i5-11400f-16gb-ddr4-ssd-480gb-geforce-rtx-3050-600w-linux-38140_1674492251_gg.jpg",
-        moba: "Placa Mae Asus H510m-e Ddr4 Lga 1200",
+        moba: "Asus H510m-e Ddr4 Lga 1200",
         cpu: "Intel Core I5-11400F",
         storage: "SSD 480GB",
         ram: "16GB DDR4",
