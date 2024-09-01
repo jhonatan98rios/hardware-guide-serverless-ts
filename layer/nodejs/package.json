@@ -13,7 +13,6 @@
     "@middy/core": "^5.4.6",
     "@middy/http-cors": "^5.4.6",
     "@middy/http-json-body-parser": "^5.4.6",
-    "natural": "^8.0.1",
-    "nodejs": "file:"
+    "natural": "^8.0.1"
   }
 }
