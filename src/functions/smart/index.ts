@@ -1,3 +1,4 @@
+import { AWS } from '@serverless/typescript';
 import schema from './schema';
 import { handlerPath } from '@libs/handler-resolver';
 
@@ -21,4 +22,7 @@ export default {
       },
     },
   ],
-};
+  layers: [
+    { Ref: 'CommonLibsLambdaLayer' },
+  ],
+} as AWS["functions"];

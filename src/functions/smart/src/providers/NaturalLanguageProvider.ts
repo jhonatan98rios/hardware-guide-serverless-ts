@@ -1,6 +1,6 @@
 import { BayesClassifier } from 'natural'
-import { device_classifier } from '../mockdata/models/device_classifier';
-import { spec_classifier } from '../mockdata/models/spec_classifier';
+import { device_classifier } from '@mock/device_classifier';
+import { spec_classifier } from '@mock/spec_classifier';
 
 export class NaturalLanguageProvider {
 

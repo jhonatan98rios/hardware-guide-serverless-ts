@@ -10,7 +10,7 @@ const serverlessConfiguration: AWS = {
   plugins: ['serverless-esbuild', 'serverless-offline'],
   provider: {
     name: 'aws',
-    runtime: 'nodejs14.x',
+    runtime: 'nodejs18.x',
     apiGateway: {
       minimumCompressionSize: 1024,
       shouldStartNameWithService: true,
@@ -21,15 +21,34 @@ const serverlessConfiguration: AWS = {
     },
   },
   // import the function via paths
+
+  layers: {
+    CommonLibs: {
+      path: "./layer/nodejs",
+      compatibleRuntimes: [
+        'nodejs18.x'
+      ]
+    }
+  },
+
   functions: { smart, content, products },
-  package: { individually: true },
+  package: { 
+    individually: true,
+    excludeDevDependencies: true,
+    exclude: [
+      "node_modules/**",
+      "test/**",
+      "docs/**",
+      "src/**/tests/**",
+      "src/mock/**"
+    ]
+  },
   custom: {
     esbuild: {
       bundle: true,
-      minify: false,
-      sourcemap: true,
-      exclude: ['aws-sdk'],
-      target: 'node14',
+      minify: true,
+      sourcemap: false,
+      target: 'node18',
       define: { 'require.resolve': undefined },
       platform: 'node',
       concurrency: 10,
